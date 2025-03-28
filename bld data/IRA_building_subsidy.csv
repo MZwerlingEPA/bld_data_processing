@@ -1,0 +1,3 @@
+sector,subsector,technology,subsidy,Units
+resid heating,electricity,electric heat pump,2.5806,1975$/GJ
+resid hot water,electricity,electric heat pump water heater,8.4942,1975$/GJ

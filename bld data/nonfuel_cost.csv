@@ -1,0 +1,766 @@
+scenario,region,sector,subsector,technology,Units,1990,2005,2010,2015,2020,2025,2030,2035
+Enhanced Ambition,AK,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,AK,resid heating,coal,coal furnace,1975$/GJ,4.94501,4.81255,5.09507,5.23042,5.19382,5.16839,5.167931456,5.178131456
+Enhanced Ambition,AK,resid heating,electricity,electric furnace,1975$/GJ,15.3199,16.0763,16.4971,14.9294,8.75888,9.4017,10.46,12.823
+Enhanced Ambition,AK,resid heating,electricity,electric heat pump,1975$/GJ,6.71687,7.04853,7.23301,5.5294,3.24403,3.48211,3.78348,4.6382
+Enhanced Ambition,AK,resid heating,gas,gas furnace,1975$/GJ,4.50414,5.87239,5.88384,4.60798,4.25741,4.64349,4.295219756,4.074989756
+Enhanced Ambition,AK,resid heating,gas,gas furnace hi-eff,1975$/GJ,3.58493,4.67394,4.68306,3.76161,3.47544,3.7906,3.506304495,3.326524495
+Enhanced Ambition,AK,resid heating,refined liquids,fuel furnace,1975$/GJ,4.86784,5.13673,8.21302,8.18179,5.85941,7.16652,6.420473244,7.164283244
+Enhanced Ambition,AK,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,4.01471,4.23648,6.77363,7.00091,5.01372,6.13218,5.493808652,6.130258652
+Enhanced Ambition,AK,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.58334,7.95779,8.16607,6.42612,3.77012,4.04682,4.22669,5.18154
+Enhanced Ambition,AK,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.965,17.8027,18.2686,16.4223,9.63476,10.3419,11.506,14.1053
+Enhanced Ambition,AK,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.9649,16.7532,17.1917,15.558,9.03259,9.6955,10.7869,13.2237
+Enhanced Ambition,AK,resid hot water,gas,gas water heater,1975$/GJ,5.95462,7.7635,7.77864,5.94578,5.49343,5.9916,5.542226459,5.258056459
+Enhanced Ambition,AK,resid hot water,gas,gas water heater hi-eff,1975$/GJ,4.28442,5.58593,5.59682,4.49559,4.15357,4.53023,4.190461713,3.975601713
+Enhanced Ambition,AK,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.60046,6.96505,11.1363,10.953,7.84404,9.59389,8.595157085,9.590897085
+Enhanced Ambition,AK,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.74911,5.01144,8.01271,8.28156,5.93086,7.25392,6.498771942,7.251651942
+Enhanced Ambition,AL,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,AL,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,AL,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.02642,7.84857,8.28718,8.84463
+Enhanced Ambition,AL,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97275,2.90688,2.99756,3.19919
+Enhanced Ambition,AL,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,AL,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,AL,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,AL,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,AL,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.45485,3.3783,3.3487,3.57395
+Enhanced Ambition,AL,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.82906,8.63342,9.1159,9.7291
+Enhanced Ambition,AL,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27724,8.09384,8.54615,9.12103
+Enhanced Ambition,AL,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,AL,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,AL,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,AL,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,AR,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,AR,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,AR,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.02732,7.85015,8.29003,8.84766
+Enhanced Ambition,AR,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97308,2.90746,2.99859,3.20029
+Enhanced Ambition,AR,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,AR,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,AR,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,AR,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,AR,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.45524,3.37898,3.34985,3.57518
+Enhanced Ambition,AR,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.83006,8.63517,9.11904,9.73243
+Enhanced Ambition,AR,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27818,8.09547,8.5491,9.12415
+Enhanced Ambition,AR,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,AR,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,AR,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,AR,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,AZ,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,AZ,resid heating,coal,coal furnace,1975$/GJ,1.17701,1.04455,1.32707,1.46242,1.42582,1.40039,1.399931456,1.410131456
+Enhanced Ambition,AZ,resid heating,electricity,electric furnace,1975$/GJ,14.1668,12.2438,12.1592,11.2535,7.54346,6.93013,7.62822,8.07535
+Enhanced Ambition,AZ,resid heating,electricity,electric heat pump,1975$/GJ,6.21131,5.36818,5.33109,4.16797,2.79387,2.56671,2.7592,2.92093
+Enhanced Ambition,AZ,resid heating,gas,gas furnace,1975$/GJ,2.85811,4.22636,4.23781,3.0031,2.65254,3.03862,2.690349756,2.470119756
+Enhanced Ambition,AZ,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.27482,3.36384,3.37295,2.45151,2.16534,2.4805,2.196204495,2.016424495
+Enhanced Ambition,AZ,resid heating,refined liquids,fuel furnace,1975$/GJ,4.28884,4.55773,7.63402,7.62371,5.30133,6.60845,5.862403244,6.606213244
+Enhanced Ambition,AZ,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.53719,3.75895,6.2961,6.52338,4.53619,5.65465,5.016288652,5.652738652
+Enhanced Ambition,AZ,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.01257,6.06067,6.0188,4.84391,3.24697,2.98297,3.08242,3.2631
+Enhanced Ambition,AZ,resid hot water,electricity,electric resistance water heater,1975$/GJ,15.6881,13.5585,13.4649,12.3789,8.29781,7.62314,8.39104,8.88288
+Enhanced Ambition,AZ,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,14.7633,12.7593,12.6712,11.7274,7.77919,7.14669,7.8666,8.3277
+Enhanced Ambition,AZ,resid hot water,gas,gas water heater,1975$/GJ,3.77852,5.5874,5.60253,3.87497,3.42263,3.92079,3.471416459,3.187246459
+Enhanced Ambition,AZ,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.71869,4.0202,4.03109,2.92986,2.58784,2.9645,2.624731713,2.409871713
+Enhanced Ambition,AZ,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.81538,6.17997,10.3512,10.2059,7.09695,8.84679,7.848057085,8.843797085
+Enhanced Ambition,AZ,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.18423,4.44656,7.44783,7.71669,5.36598,6.68904,5.933891942,6.686771942
+Enhanced Ambition,CA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.13298,-12.25752
+Enhanced Ambition,CA,resid heating,coal,coal furnace,1975$/GJ,2.75276,2.6203,2.90282,3.03817,3.00157,2.97614,2.97599,-7.34951
+Enhanced Ambition,CA,resid heating,electricity,electric furnace,1975$/GJ,14.7926,14.2982,14.0353,12.0366,8.36387,7.77256,8.2236,8.54792
+Enhanced Ambition,CA,resid heating,electricity,electric heat pump,1975$/GJ,6.4857,6.26891,6.15366,4.45801,3.09773,2.87872,2.97456,3.09187
+Enhanced Ambition,CA,resid heating,gas,gas furnace,1975$/GJ,3.68529,5.05354,5.06499,3.8096,3.45904,3.84512,3.49693,0.58866
+Enhanced Ambition,CA,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.93319,4.02221,4.03132,3.10988,2.8237,3.13887,2.85464,0.48053
+Enhanced Ambition,CA,resid heating,refined liquids,fuel furnace,1975$/GJ,5.65784,5.92673,9.00302,8.94323,6.62085,7.92796,7.18203,4.34968
+Enhanced Ambition,CA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,4.66626,4.88802,7.42517,7.65246,5.66526,6.78372,6.14545,3.72189
+Enhanced Ambition,CA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.32235,7.0776,6.94748,5.18098,3.6001,3.34558,3.32301,3.45406
+Enhanced Ambition,CA,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.3811,15.8336,15.5425,13.2403,9.20026,8.54981,9.04596,9.40272
+Enhanced Ambition,CA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.4155,14.9002,14.6263,12.5434,8.62524,8.01545,8.48059,8.81505
+Enhanced Ambition,CA,resid hot water,gas,gas water heater,1975$/GJ,4.87208,6.68095,6.69609,4.91562,4.46327,4.96144,4.51217,0.75955
+Enhanced Ambition,CA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.50552,4.80703,4.81792,3.71668,3.37467,3.75133,3.41164,0.5743
+Enhanced Ambition,CA,resid hot water,refined liquids,fuel water heater,1975$/GJ,7.67165,8.03624,12.2075,11.9724,8.8634,10.6132,9.61465,5.82297
+Enhanced Ambition,CA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,5.51984,5.78217,8.78344,9.0523,6.70159,8.02465,7.26961,4.40273
+Enhanced Ambition,CO,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,CO,resid heating,coal,coal furnace,1975$/GJ,1.17701,1.04455,1.32707,1.46242,1.42582,1.40039,1.399931456,1.410131456
+Enhanced Ambition,CO,resid heating,electricity,electric furnace,1975$/GJ,14.1668,12.2438,12.1592,11.2535,7.51246,6.92282,7.61195,8.0369
+Enhanced Ambition,CO,resid heating,electricity,electric heat pump,1975$/GJ,6.21131,5.36818,5.33109,4.16797,2.78239,2.56401,2.75332,2.90703
+Enhanced Ambition,CO,resid heating,gas,gas furnace,1975$/GJ,2.85811,4.22636,4.23781,3.0031,2.65254,3.03862,2.690349756,2.470119756
+Enhanced Ambition,CO,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.27482,3.36384,3.37295,2.45151,2.16534,2.4805,2.196204495,2.016424495
+Enhanced Ambition,CO,resid heating,refined liquids,fuel furnace,1975$/GJ,4.28884,4.55773,7.63402,7.62371,5.30133,6.60845,5.862403244,6.606213244
+Enhanced Ambition,CO,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.53719,3.75895,6.2961,6.52338,4.53619,5.65465,5.016288652,5.652738652
+Enhanced Ambition,CO,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.01257,6.06067,6.0188,4.84391,3.23362,2.97982,3.07585,3.24756
+Enhanced Ambition,CO,resid hot water,electricity,electric resistance water heater,1975$/GJ,15.6881,13.5585,13.4649,12.3789,8.26371,7.6151,8.37315,8.84059
+Enhanced Ambition,CO,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,14.7633,12.7593,12.6712,11.7274,7.74722,7.13916,7.84983,8.28806
+Enhanced Ambition,CO,resid hot water,gas,gas water heater,1975$/GJ,3.77852,5.5874,5.60253,3.87497,3.42263,3.92079,3.471416459,3.187246459
+Enhanced Ambition,CO,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.71869,4.0202,4.03109,2.92986,2.58784,2.9645,2.624731713,2.409871713
+Enhanced Ambition,CO,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.81538,6.17997,10.3512,10.2059,7.09695,8.84679,7.848057085,8.843797085
+Enhanced Ambition,CO,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.18423,4.44656,7.44783,7.71669,5.36598,6.68904,5.933891942,6.686771942
+Enhanced Ambition,CT,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,CT,resid heating,coal,coal furnace,1975$/GJ,3.27801,3.14555,3.42807,3.56342,3.52682,3.50139,3.500931456,3.511131456
+Enhanced Ambition,CT,resid heating,electricity,electric furnace,1975$/GJ,15.781,15.2385,15.1917,13.2783,9.11918,8.25033,8.70025,8.65372
+Enhanced Ambition,CT,resid heating,electricity,electric heat pump,1975$/GJ,6.91902,6.6812,6.66065,4.9179,3.37747,3.05568,3.14697,3.13014
+Enhanced Ambition,CT,resid heating,gas,gas furnace,1975$/GJ,3.82952,5.19777,5.20922,3.95023,3.59966,3.98574,3.637469756,3.417239756
+Enhanced Ambition,CT,resid heating,gas,gas furnace hi-eff,1975$/GJ,3.04799,4.137,4.14612,3.22468,2.9385,3.25367,2.969364495,2.789584495
+Enhanced Ambition,CT,resid heating,refined liquids,fuel furnace,1975$/GJ,4.36534,4.63423,7.71052,7.69745,5.37507,6.68218,5.936143244,6.679943244
+Enhanced Ambition,CT,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.60028,3.82204,6.3592,6.58648,4.59928,5.71774,5.079378652,5.715828652
+Enhanced Ambition,CT,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.81157,7.54308,7.51987,5.71545,3.92521,3.55123,3.51561,3.49681
+Enhanced Ambition,CT,resid hot water,electricity,electric resistance water heater,1975$/GJ,17.4756,16.8749,16.823,14.6062,10.0311,9.07536,9.57027,9.5191
+Enhanced Ambition,CT,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,16.4454,15.8802,15.8313,13.8374,9.40415,8.50815,8.97213,8.92415
+Enhanced Ambition,CT,resid hot water,gas,gas water heater,1975$/GJ,5.06276,6.87163,6.88677,5.09707,4.64472,5.14289,4.693516459,4.409346459
+Enhanced Ambition,CT,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.64272,4.94422,4.95512,3.85388,3.51186,3.88853,3.548751713,3.333891713
+Enhanced Ambition,CT,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.91911,6.2837,10.4549,10.3046,7.19566,8.9455,7.946767085,8.942507085
+Enhanced Ambition,CT,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.25887,4.5212,7.52246,7.79132,5.44062,6.76367,6.008531942,6.761411942
+Enhanced Ambition,DC,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,DC,resid heating,coal,coal furnace,1975$/GJ,1.85101,1.71855,2.00107,2.13642,2.09982,2.07439,2.073931456,2.084131456
+Enhanced Ambition,DC,resid heating,electricity,electric furnace,1975$/GJ,14.7107,13.6365,13.6737,12.3398,8.7245,7.6513,7.7094,8.02263
+Enhanced Ambition,DC,resid heating,electricity,electric heat pump,1975$/GJ,6.44978,5.97881,5.9951,4.57031,3.2313,2.83381,2.78857,2.90186
+Enhanced Ambition,DC,resid heating,gas,gas furnace,1975$/GJ,3.29504,4.66329,4.67474,3.4291,3.07854,3.46462,3.116349756,2.896119756
+Enhanced Ambition,DC,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.62258,3.7116,3.72071,2.79927,2.51309,2.82826,2.543954495,2.364174495
+Enhanced Ambition,DC,resid heating,refined liquids,fuel furnace,1975$/GJ,4.50384,4.77273,7.84902,7.83094,5.50856,6.81568,6.069633244,6.813443244
+Enhanced Ambition,DC,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.71451,3.93627,6.47342,6.7007,4.71351,5.83197,5.193598652,5.830058652
+Enhanced Ambition,DC,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.2818,6.75007,6.76847,5.3115,3.75533,3.29338,3.11523,3.2418
+Enhanced Ambition,DC,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2904,15.1008,15.142,13.5738,9.59695,8.41643,8.48034,8.82489
+Enhanced Ambition,DC,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.3301,14.2107,14.2494,12.8594,8.99714,7.8904,7.95032,8.27333
+Enhanced Ambition,DC,resid hot water,gas,gas water heater,1975$/GJ,4.35615,6.16502,6.18016,4.42465,3.9723,4.47047,4.021096459,3.736926459
+Enhanced Ambition,DC,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.1343,4.43581,4.4467,3.34547,3.00345,3.38011,3.040341713,2.825481713
+Enhanced Ambition,DC,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.1069,6.4715,10.6427,10.4834,7.37437,9.12421,8.125477085,9.121217085
+Enhanced Ambition,DC,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.39399,4.65632,7.65758,7.92644,5.57574,6.89879,6.143651942,6.896531942
+Enhanced Ambition,DE,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,DE,resid heating,coal,coal furnace,1975$/GJ,1.85101,1.71855,2.00107,2.13642,2.09982,2.07439,2.073931456,2.084131456
+Enhanced Ambition,DE,resid heating,electricity,electric furnace,1975$/GJ,14.7107,13.6365,13.6737,12.3398,8.72359,7.65044,7.70798,8.01944
+Enhanced Ambition,DE,resid heating,electricity,electric heat pump,1975$/GJ,6.44978,5.97881,5.9951,4.57031,3.23096,2.8335,2.78805,2.90071
+Enhanced Ambition,DE,resid heating,gas,gas furnace,1975$/GJ,3.29504,4.66329,4.67474,3.4291,3.07854,3.46462,3.116349756,2.896119756
+Enhanced Ambition,DE,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.62258,3.7116,3.72071,2.79927,2.51309,2.82826,2.543954495,2.364174495
+Enhanced Ambition,DE,resid heating,refined liquids,fuel furnace,1975$/GJ,4.50384,4.77273,7.84902,7.83094,5.50856,6.81568,6.069633244,6.813443244
+Enhanced Ambition,DE,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.71451,3.93627,6.47342,6.7007,4.71351,5.83197,5.193598652,5.830058652
+Enhanced Ambition,DE,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.2818,6.75007,6.76847,5.3115,3.75494,3.29302,3.11465,3.24051
+Enhanced Ambition,DE,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2904,15.1008,15.142,13.5738,9.59595,8.41549,8.47877,8.82138
+Enhanced Ambition,DE,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.3301,14.2107,14.2494,12.8594,8.99621,7.88952,7.94885,8.27004
+Enhanced Ambition,DE,resid hot water,gas,gas water heater,1975$/GJ,4.35615,6.16502,6.18016,4.42465,3.9723,4.47047,4.021096459,3.736926459
+Enhanced Ambition,DE,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.1343,4.43581,4.4467,3.34547,3.00345,3.38011,3.040341713,2.825481713
+Enhanced Ambition,DE,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.1069,6.4715,10.6427,10.4834,7.37437,9.12421,8.125477085,9.121217085
+Enhanced Ambition,DE,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.39399,4.65632,7.65758,7.92644,5.57574,6.89879,6.143651942,6.896531942
+Enhanced Ambition,FL,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,FL,resid heating,coal,coal furnace,1975$/GJ,2.09101,1.95855,2.24107,2.37642,2.33982,2.31439,2.313931456,2.324131456
+Enhanced Ambition,FL,resid heating,electricity,electric furnace,1975$/GJ,13.9057,13.05,12.8464,10.8597,7.70731,7.5526,8.37499,8.92828
+Enhanced Ambition,FL,resid heating,electricity,electric heat pump,1975$/GJ,6.09685,5.72165,5.63238,4.0221,2.85456,2.79726,3.02932,3.22945
+Enhanced Ambition,FL,resid heating,gas,gas furnace,1975$/GJ,2.61632,3.98457,3.99602,2.76735,2.41679,2.80287,2.454599756,2.234369756
+Enhanced Ambition,FL,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.08238,3.17139,3.18051,2.25906,1.97289,2.28805,2.003754495,1.823974495
+Enhanced Ambition,FL,resid heating,refined liquids,fuel furnace,1975$/GJ,4.38397,4.65285,7.72915,7.7154,5.39302,6.70013,5.954093244,6.697893244
+Enhanced Ambition,FL,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.61564,3.8374,6.37456,6.60184,4.61465,5.7331,5.094738652,5.731188652
+Enhanced Ambition,FL,resid hot water,electricity,electric heat pump water heater,1975$/GJ,6.88334,6.45974,6.35895,4.67438,3.3175,3.2509,3.38418,3.60775
+Enhanced Ambition,FL,resid hot water,electricity,electric resistance water heater,1975$/GJ,15.399,14.4513,14.2258,11.9456,8.47804,8.30786,9.21248,9.82111
+Enhanced Ambition,FL,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,14.4912,13.5995,13.3873,11.3169,7.94817,7.78862,8.6367,9.20729
+Enhanced Ambition,FL,resid hot water,gas,gas water heater,1975$/GJ,3.45886,5.26773,5.28287,3.57078,3.11843,3.6166,3.167226459,2.883056459
+Enhanced Ambition,FL,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.48869,3.7902,3.80109,2.69986,2.35784,2.7345,2.394731713,2.179871713
+Enhanced Ambition,FL,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.94436,6.30895,10.4802,10.3287,7.21969,8.96953,7.970797085,8.966537085
+Enhanced Ambition,FL,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.27704,4.53937,7.54063,7.80949,5.45879,6.78184,6.026701942,6.779581942
+Enhanced Ambition,GA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,GA,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,GA,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.02847,7.85206,8.29334,8.85111
+Enhanced Ambition,GA,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97351,2.90817,2.99978,3.20153
+Enhanced Ambition,GA,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,GA,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,GA,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,GA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,GA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.45573,3.3798,3.35119,3.57657
+Enhanced Ambition,GA,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.83131,8.63727,9.12268,9.73622
+Enhanced Ambition,GA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27936,8.09744,8.55251,9.12771
+Enhanced Ambition,GA,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,GA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,GA,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,GA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,HI,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,HI,resid heating,coal,coal furnace,1975$/GJ,2.17376,2.0413,2.32382,2.45917,2.42257,2.39714,2.396681456,2.406881456
+Enhanced Ambition,HI,resid heating,electricity,electric furnace,1975$/GJ,18.0279,16.8167,22.4171,22.1065,12.8659,14.2611,13.2038,13.0389
+Enhanced Ambition,HI,resid heating,electricity,electric heat pump,1975$/GJ,7.90418,7.37313,9.8286,8.18758,4.76515,5.28189,4.77595,4.7163
+Enhanced Ambition,HI,resid heating,gas,gas furnace,1975$/GJ,9.4126,10.7809,10.7923,9.39373,9.04316,9.42924,9.080969756,8.860739756
+Enhanced Ambition,HI,resid heating,gas,gas furnace hi-eff,1975$/GJ,7.49166,8.58068,8.58979,7.66835,7.38217,7.69734,7.413044495,7.233254495
+Enhanced Ambition,HI,resid heating,refined liquids,fuel furnace,1975$/GJ,5.56684,5.83573,8.91202,8.85552,6.53314,7.84025,7.094213244,7.838013244
+Enhanced Ambition,HI,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,4.59121,4.81297,7.35012,7.5774,5.59021,6.70867,6.070308652,6.706758652
+Enhanced Ambition,HI,resid hot water,electricity,electric heat pump water heater,1975$/GJ,8.92382,8.32426,11.0965,9.5154,5.53793,6.13848,5.33542,5.26878
+Enhanced Ambition,HI,resid hot water,electricity,electric resistance water heater,1975$/GJ,19.9638,18.6225,24.8244,24.3171,14.1525,15.6872,14.5242,14.3428
+Enhanced Ambition,HI,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,18.787,17.5248,23.361,23.0373,13.268,14.7068,13.6164,13.4464
+Enhanced Ambition,HI,resid hot water,gas,gas water heater,1975$/GJ,12.4438,14.2526,14.2678,12.1209,11.6686,12.1668,11.71739646,11.43319646
+Enhanced Ambition,HI,resid hot water,gas,gas water heater hi-eff,1975$/GJ,8.95345,10.255,10.2658,9.16461,8.8226,9.19926,8.859481713,8.644621713
+Enhanced Ambition,HI,resid hot water,refined liquids,fuel water heater,1975$/GJ,7.54826,7.91285,12.0841,11.855,8.74598,10.4958,9.497087085,10.49285709
+Enhanced Ambition,HI,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,5.43106,5.69339,8.69466,8.96351,6.61281,7.93587,7.180721942,7.933601942
+Enhanced Ambition,IA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,IA,resid heating,coal,coal furnace,1975$/GJ,1.08176,0.949298,1.23182,1.36717,1.33057,1.30514,1.304681456,1.314881456
+Enhanced Ambition,IA,resid heating,electricity,electric furnace,1975$/GJ,14.4728,12.7286,12.5376,11.8052,7.8651,7.49966,8.70465,8.75752
+Enhanced Ambition,IA,resid heating,electricity,electric heat pump,1975$/GJ,6.34545,5.58075,5.49701,4.37231,2.913,2.77765,3.14856,3.16768
+Enhanced Ambition,IA,resid heating,gas,gas furnace,1975$/GJ,2.90055,4.2688,4.28025,3.04448,2.69391,3.07999,2.731719756,2.511489756
+Enhanced Ambition,IA,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.3086,3.39762,3.40673,2.48529,2.19911,2.51428,2.229974495,2.050194495
+Enhanced Ambition,IA,resid heating,refined liquids,fuel furnace,1975$/GJ,4.27647,4.54535,7.62165,7.61179,5.28941,6.59652,5.850473244,6.594283244
+Enhanced Ambition,IA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.52698,3.74874,6.2859,6.51318,4.52599,5.64444,5.006078652,5.642528652
+Enhanced Ambition,IA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.16401,6.30067,6.20612,5.08138,3.38541,3.22812,3.51739,3.53875
+Enhanced Ambition,IA,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.0269,14.0955,13.8839,12.9857,8.65161,8.24963,9.57511,9.63327
+Enhanced Ambition,IA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.0821,13.2646,13.0655,12.3023,8.11089,7.73403,8.97667,9.03119
+Enhanced Ambition,IA,resid hot water,gas,gas water heater,1975$/GJ,3.83462,5.6435,5.65864,3.92836,3.47601,3.97418,3.524806459,3.240636459
+Enhanced Ambition,IA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.75906,4.06057,4.07146,2.97022,2.62821,3.00487,2.665091713,2.450231713
+Enhanced Ambition,IA,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.7986,6.16319,10.3344,10.19,7.08098,8.83082,7.832087085,8.827827085
+Enhanced Ambition,IA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.17216,4.43449,7.43576,7.70461,5.35391,6.67696,5.921821942,6.674701942
+Enhanced Ambition,ID,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,ID,resid heating,coal,coal furnace,1975$/GJ,1.53676,1.4043,1.68682,1.82217,1.78557,1.76014,1.759681456,1.769881456
+Enhanced Ambition,ID,resid heating,electricity,electric furnace,1975$/GJ,14.9484,12.9766,12.9464,12.0526,7.75351,6.92733,7.2762,7.43992
+Enhanced Ambition,ID,resid heating,electricity,electric heat pump,1975$/GJ,6.55401,5.68946,5.67625,4.46394,2.87167,2.56568,2.63187,2.69109
+Enhanced Ambition,ID,resid heating,gas,gas furnace,1975$/GJ,3.08081,4.44906,4.46051,3.22023,2.86966,3.25574,2.907469756,2.687239756
+Enhanced Ambition,ID,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45207,3.54109,3.5502,2.62876,2.34258,2.65775,2.373444495,2.193664495
+Enhanced Ambition,ID,resid heating,refined liquids,fuel furnace,1975$/GJ,4.84722,5.1161,8.1924,8.16191,5.83953,7.14664,6.400593244,7.144403244
+Enhanced Ambition,ID,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.9977,4.21947,6.75662,6.9839,4.99671,6.11517,5.476798652,6.113248652
+Enhanced Ambition,ID,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.39948,6.4234,6.40849,5.18788,3.33738,2.98176,2.94018,3.00634
+Enhanced Ambition,ID,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.5536,14.37,14.3367,13.2579,8.52886,7.62006,8.00382,8.18391
+Enhanced Ambition,ID,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.5778,13.5229,13.4916,12.5601,7.99581,7.14381,7.50358,7.67242
+Enhanced Ambition,ID,resid hot water,gas,gas water heater,1975$/GJ,4.07293,5.8818,5.89694,4.15513,3.70279,4.20096,3.751576459,3.467406459
+Enhanced Ambition,ID,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93052,4.23203,4.24292,3.14168,2.79967,3.17633,2.836561713,2.621701713
+Enhanced Ambition,ID,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.5725,6.93709,11.1083,10.9264,7.81743,9.56728,8.568537085,9.564277085
+Enhanced Ambition,ID,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.72899,4.99132,7.99258,8.26144,5.91074,7.23379,6.478651942,7.231531942
+Enhanced Ambition,IL,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,IL,resid heating,coal,coal furnace,1975$/GJ,1.26376,1.1313,1.41382,1.54917,1.51257,1.48714,1.486681456,1.496881456
+Enhanced Ambition,IL,resid heating,electricity,electric furnace,1975$/GJ,14.6039,12.9841,13.0922,12.5145,8.25394,7.73506,8.58599,8.58644
+Enhanced Ambition,IL,resid heating,electricity,electric heat pump,1975$/GJ,6.40295,5.69274,5.74016,4.63501,3.05702,2.86484,3.10564,3.1058
+Enhanced Ambition,IL,resid heating,gas,gas furnace,1975$/GJ,3.47324,4.84149,4.85294,3.60285,3.25229,3.63837,3.290099756,3.069869756
+Enhanced Ambition,IL,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.76442,3.85343,3.86255,2.9411,2.65493,2.97009,2.685794495,2.506014495
+Enhanced Ambition,IL,resid heating,refined liquids,fuel furnace,1975$/GJ,4.37984,4.64873,7.72502,7.71142,5.38904,6.69616,5.950113244,6.693923244
+Enhanced Ambition,IL,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.61224,3.834,6.37115,6.59844,4.61124,5.7297,5.091338652,5.727788652
+Enhanced Ambition,IL,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.22893,6.42711,6.48064,5.38669,3.55278,3.32944,3.46944,3.46962
+Enhanced Ambition,IL,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.1721,14.3783,14.4981,13.766,9.07934,8.50856,9.44459,9.44508
+Enhanced Ambition,IL,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2188,13.5308,13.6434,13.0415,8.51188,7.97678,8.85431,8.85477
+Enhanced Ambition,IL,resid hot water,gas,gas water heater,1975$/GJ,4.59174,6.40062,6.41575,4.64884,4.1965,4.69467,4.245286459,3.961116459
+Enhanced Ambition,IL,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.30381,4.60532,4.61621,3.51498,3.17296,3.54963,3.209851713,2.994991713
+Enhanced Ambition,IL,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.93877,6.30336,10.4746,10.3234,7.21437,8.96421,7.965477085,8.961217085
+Enhanced Ambition,IL,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.27301,4.53534,7.53661,7.80547,5.45476,6.77782,6.022681942,6.775551942
+Enhanced Ambition,IN,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,IN,resid heating,coal,coal furnace,1975$/GJ,1.51201,1.37955,1.66207,1.79742,1.76082,1.73539,1.734931456,1.745131456
+Enhanced Ambition,IN,resid heating,electricity,electric furnace,1975$/GJ,14.6585,13.1788,13.3631,12.6968,8.19071,8.10393,9.77121,10.0094
+Enhanced Ambition,IN,resid heating,electricity,electric heat pump,1975$/GJ,6.42687,5.77814,5.85895,4.70252,3.0336,3.00146,3.53434,3.62049
+Enhanced Ambition,IN,resid heating,gas,gas furnace,1975$/GJ,3.08722,4.45547,4.46692,3.22648,2.87591,3.26199,2.913719756,2.693489756
+Enhanced Ambition,IN,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45717,3.54619,3.5553,2.63386,2.34768,2.66285,2.378554495,2.198764495
+Enhanced Ambition,IN,resid heating,refined liquids,fuel furnace,1975$/GJ,4.40872,4.6776,7.7539,7.73926,5.41688,6.72399,5.977943244,6.721753244
+Enhanced Ambition,IN,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.63605,3.85782,6.39497,6.62225,4.63506,5.75352,5.115148652,5.751598652
+Enhanced Ambition,IN,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.25594,6.52352,6.61475,5.46515,3.52557,3.48821,3.94837,4.04461
+Enhanced Ambition,IN,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2325,14.594,14.7981,13.9665,9.00978,8.91432,10.7483,11.0103
+Enhanced Ambition,IN,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2757,13.7337,13.9258,13.2314,8.44667,8.35718,10.0766,10.3222
+Enhanced Ambition,IN,resid hot water,gas,gas water heater,1975$/GJ,4.0814,5.89028,5.90542,4.1632,3.71085,4.20902,3.759646459,3.475466459
+Enhanced Ambition,IN,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93662,4.23813,4.24902,3.14778,2.80577,3.18243,2.842661713,2.627791713
+Enhanced Ambition,IN,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.97792,6.34251,10.5138,10.3606,7.25162,9.00147,8.002737085,8.998477085
+Enhanced Ambition,IN,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.30119,4.56351,7.56478,7.83364,5.48293,6.80599,6.050851942,6.803721942
+Enhanced Ambition,KS,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,KS,resid heating,coal,coal furnace,1975$/GJ,1.11901,0.986548,1.26907,1.40442,1.36782,1.34239,1.341931456,1.352131456
+Enhanced Ambition,KS,resid heating,electricity,electric furnace,1975$/GJ,12.6849,12.023,11.9491,9.95603,7.58324,7.07782,7.34643,7.7075
+Enhanced Ambition,KS,resid heating,electricity,electric heat pump,1975$/GJ,5.56157,5.27136,5.23897,3.68742,2.80861,2.62142,2.65728,2.78788
+Enhanced Ambition,KS,resid heating,gas,gas furnace,1975$/GJ,2.86657,4.23482,4.24628,3.01135,2.66079,3.04687,2.698599756,2.478369756
+Enhanced Ambition,KS,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.28156,3.37057,3.37969,2.45825,2.17207,2.48724,2.202934495,2.023154495
+Enhanced Ambition,KS,resid heating,refined liquids,fuel furnace,1975$/GJ,4.05722,4.3261,7.4024,7.40046,5.07808,6.38519,5.639153244,6.382953244
+Enhanced Ambition,KS,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.34616,3.56792,6.10507,6.33235,4.34516,5.46362,4.825248652,5.461708652
+Enhanced Ambition,KS,resid hot water,electricity,electric heat pump water heater,1975$/GJ,6.27902,5.95136,5.9148,4.28542,3.26409,3.04654,2.96856,3.11446
+Enhanced Ambition,KS,resid hot water,electricity,electric resistance water heater,1975$/GJ,14.047,13.314,13.2322,10.9516,8.34156,7.78561,8.08107,8.47825
+Enhanced Ambition,KS,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,13.219,12.5292,12.4522,10.3752,7.82022,7.29901,7.57601,7.94836
+Enhanced Ambition,KS,resid hot water,gas,gas water heater,1975$/GJ,3.78971,5.59858,5.61372,3.88562,3.43327,3.93144,3.482066459,3.197886459
+Enhanced Ambition,KS,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.72674,4.02825,4.03914,2.9379,2.59589,2.97255,2.632781713,2.417921713
+Enhanced Ambition,KS,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.50131,5.8659,10.0372,9.90707,6.79807,8.54792,7.549187085,8.544927085
+Enhanced Ambition,KS,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.95826,4.22059,7.22185,7.49071,5.14001,6.46306,5.707921942,6.460801942
+Enhanced Ambition,KY,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,KY,resid heating,coal,coal furnace,1975$/GJ,1.51201,1.37955,1.66207,1.79742,1.76082,1.73539,1.734931456,1.745131456
+Enhanced Ambition,KY,resid heating,electricity,electric furnace,1975$/GJ,14.6585,13.1788,13.3631,12.6968,8.18997,8.10287,9.76866,10.0061
+Enhanced Ambition,KY,resid heating,electricity,electric heat pump,1975$/GJ,6.42687,5.77814,5.85895,4.70252,3.03332,3.00106,3.53342,3.61931
+Enhanced Ambition,KY,resid heating,gas,gas furnace,1975$/GJ,3.08722,4.45547,4.46692,3.22648,2.87591,3.26199,2.913719756,2.693489756
+Enhanced Ambition,KY,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45717,3.54619,3.5553,2.63386,2.34768,2.66285,2.378554495,2.198764495
+Enhanced Ambition,KY,resid heating,refined liquids,fuel furnace,1975$/GJ,4.40872,4.6776,7.7539,7.73926,5.41688,6.72399,5.977943244,6.721753244
+Enhanced Ambition,KY,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.63605,3.85782,6.39497,6.62225,4.63506,5.75352,5.115148652,5.751598652
+Enhanced Ambition,KY,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.25594,6.52352,6.61475,5.46515,3.52525,3.48776,3.94734,4.04328
+Enhanced Ambition,KY,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2325,14.594,14.7981,13.9665,9.00897,8.91316,10.7455,11.0067
+Enhanced Ambition,KY,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2757,13.7337,13.9258,13.2314,8.44591,8.35609,10.0739,10.3188
+Enhanced Ambition,KY,resid hot water,gas,gas water heater,1975$/GJ,4.0814,5.89028,5.90542,4.1632,3.71085,4.20902,3.759646459,3.475466459
+Enhanced Ambition,KY,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93662,4.23813,4.24902,3.14778,2.80577,3.18243,2.842661713,2.627791713
+Enhanced Ambition,KY,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.97792,6.34251,10.5138,10.3606,7.25162,9.00147,8.002737085,8.998477085
+Enhanced Ambition,KY,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.30119,4.56351,7.56478,7.83364,5.48293,6.80599,6.050851942,6.803721942
+Enhanced Ambition,LA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,LA,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,LA,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.02654,7.84886,8.28788,8.84543
+Enhanced Ambition,LA,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97279,2.90699,2.99781,3.19948
+Enhanced Ambition,LA,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,LA,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,LA,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,LA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,LA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.4549,3.37842,3.34898,3.57427
+Enhanced Ambition,LA,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.8292,8.63375,9.11667,9.72997
+Enhanced Ambition,LA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27737,8.09414,8.54688,9.12185
+Enhanced Ambition,LA,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,LA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,LA,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,LA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,MA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,MA,resid heating,coal,coal furnace,1975$/GJ,3.27801,3.14555,3.42807,3.56342,3.52682,3.50139,3.500931456,3.511131456
+Enhanced Ambition,MA,resid heating,electricity,electric furnace,1975$/GJ,15.781,15.2385,15.1917,13.2783,9.11986,8.25094,8.70154,8.6559
+Enhanced Ambition,MA,resid heating,electricity,electric heat pump,1975$/GJ,6.91902,6.6812,6.66065,4.9179,3.37773,3.05591,3.14743,3.13093
+Enhanced Ambition,MA,resid heating,gas,gas furnace,1975$/GJ,3.82952,5.19777,5.20922,3.95023,3.59966,3.98574,3.637469756,3.417239756
+Enhanced Ambition,MA,resid heating,gas,gas furnace hi-eff,1975$/GJ,3.04799,4.137,4.14612,3.22468,2.9385,3.25367,2.969364495,2.789584495
+Enhanced Ambition,MA,resid heating,refined liquids,fuel furnace,1975$/GJ,4.36534,4.63423,7.71052,7.69745,5.37507,6.68218,5.936143244,6.679943244
+Enhanced Ambition,MA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.60028,3.82204,6.3592,6.58648,4.59928,5.71774,5.079378652,5.715828652
+Enhanced Ambition,MA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.81157,7.54308,7.51987,5.71545,3.92551,3.55149,3.51613,3.49769
+Enhanced Ambition,MA,resid hot water,electricity,electric resistance water heater,1975$/GJ,17.4756,16.8749,16.823,14.6062,10.0319,9.07604,9.57169,9.52149
+Enhanced Ambition,MA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,16.4454,15.8802,15.8313,13.8374,9.40486,8.50879,8.97346,8.9264
+Enhanced Ambition,MA,resid hot water,gas,gas water heater,1975$/GJ,5.06276,6.87163,6.88677,5.09707,4.64472,5.14289,4.693516459,4.409346459
+Enhanced Ambition,MA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.64272,4.94422,4.95512,3.85388,3.51186,3.88853,3.548751713,3.333891713
+Enhanced Ambition,MA,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.91911,6.2837,10.4549,10.3046,7.19566,8.9455,7.946767085,8.942507085
+Enhanced Ambition,MA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.25887,4.5212,7.52246,7.79132,5.44062,6.76367,6.008531942,6.761411942
+Enhanced Ambition,MD,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,MD,resid heating,coal,coal furnace,1975$/GJ,1.85101,1.71855,2.00107,2.13642,2.09982,2.07439,2.073931456,2.084131456
+Enhanced Ambition,MD,resid heating,electricity,electric furnace,1975$/GJ,14.7107,13.6365,13.6737,12.3398,8.72362,7.65047,7.708,8.01944
+Enhanced Ambition,MD,resid heating,electricity,electric heat pump,1975$/GJ,6.44978,5.97881,5.9951,4.57031,3.23097,2.83351,2.78806,2.90071
+Enhanced Ambition,MD,resid heating,gas,gas furnace,1975$/GJ,3.29504,4.66329,4.67474,3.4291,3.07854,3.46462,3.116349756,2.896119756
+Enhanced Ambition,MD,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.62258,3.7116,3.72071,2.79927,2.51309,2.82826,2.543954495,2.364174495
+Enhanced Ambition,MD,resid heating,refined liquids,fuel furnace,1975$/GJ,4.50384,4.77273,7.84902,7.83094,5.50856,6.81568,6.069633244,6.813443244
+Enhanced Ambition,MD,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.71451,3.93627,6.47342,6.7007,4.71351,5.83197,5.193598652,5.830058652
+Enhanced Ambition,MD,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.2818,6.75007,6.76847,5.3115,3.75495,3.29303,3.11466,3.24051
+Enhanced Ambition,MD,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2904,15.1008,15.142,13.5738,9.59598,8.41551,8.4788,8.82139
+Enhanced Ambition,MD,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.3301,14.2107,14.2494,12.8594,8.99623,7.88954,7.94887,8.27005
+Enhanced Ambition,MD,resid hot water,gas,gas water heater,1975$/GJ,4.35615,6.16502,6.18016,4.42465,3.9723,4.47047,4.021096459,3.736926459
+Enhanced Ambition,MD,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.1343,4.43581,4.4467,3.34547,3.00345,3.38011,3.040341713,2.825481713
+Enhanced Ambition,MD,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.1069,6.4715,10.6427,10.4834,7.37437,9.12421,8.125477085,9.121217085
+Enhanced Ambition,MD,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.39399,4.65632,7.65758,7.92644,5.57574,6.89879,6.143651942,6.896531942
+Enhanced Ambition,ME,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,ME,resid heating,coal,coal furnace,1975$/GJ,3.27801,3.14555,3.42807,3.56342,3.52682,3.50139,3.500931456,3.511131456
+Enhanced Ambition,ME,resid heating,electricity,electric furnace,1975$/GJ,15.781,15.2385,15.1917,13.2783,9.12008,8.25114,8.70193,8.65664
+Enhanced Ambition,ME,resid heating,electricity,electric heat pump,1975$/GJ,6.91902,6.6812,6.66065,4.9179,3.37781,3.05598,3.14758,3.13119
+Enhanced Ambition,ME,resid heating,gas,gas furnace,1975$/GJ,3.82952,5.19777,5.20922,3.95023,3.59966,3.98574,3.637469756,3.417239756
+Enhanced Ambition,ME,resid heating,gas,gas furnace hi-eff,1975$/GJ,3.04799,4.137,4.14612,3.22468,2.9385,3.25367,2.969364495,2.789584495
+Enhanced Ambition,ME,resid heating,refined liquids,fuel furnace,1975$/GJ,4.36534,4.63423,7.71052,7.69745,5.37507,6.68218,5.936143244,6.679943244
+Enhanced Ambition,ME,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.60028,3.82204,6.3592,6.58648,4.59928,5.71774,5.079378652,5.715828652
+Enhanced Ambition,ME,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.81157,7.54308,7.51987,5.71545,3.9256,3.55158,3.51629,3.49799
+Enhanced Ambition,ME,resid hot water,electricity,electric resistance water heater,1975$/GJ,17.4756,16.8749,16.823,14.6062,10.0321,9.07625,9.57213,9.5223
+Enhanced Ambition,ME,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,16.4454,15.8802,15.8313,13.8374,9.40509,8.50899,8.97387,8.92716
+Enhanced Ambition,ME,resid hot water,gas,gas water heater,1975$/GJ,5.06276,6.87163,6.88677,5.09707,4.64472,5.14289,4.693516459,4.409346459
+Enhanced Ambition,ME,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.64272,4.94422,4.95512,3.85388,3.51186,3.88853,3.548751713,3.333891713
+Enhanced Ambition,ME,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.91911,6.2837,10.4549,10.3046,7.19566,8.9455,7.946767085,8.942507085
+Enhanced Ambition,ME,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.25887,4.5212,7.52246,7.79132,5.44062,6.76367,6.008531942,6.761411942
+Enhanced Ambition,MI,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,MI,resid heating,coal,coal furnace,1975$/GJ,1.51201,1.37955,1.66207,1.79742,1.76082,1.73539,1.734931456,1.745131456
+Enhanced Ambition,MI,resid heating,electricity,electric furnace,1975$/GJ,14.6585,13.1788,13.3631,12.6968,8.1886,8.1006,9.76121,9.9944
+Enhanced Ambition,MI,resid heating,electricity,electric heat pump,1975$/GJ,6.42687,5.77814,5.85895,4.70252,3.03281,3.00022,3.53073,3.61507
+Enhanced Ambition,MI,resid heating,gas,gas furnace,1975$/GJ,3.08722,4.45547,4.46692,3.22648,2.87591,3.26199,2.913719756,2.693489756
+Enhanced Ambition,MI,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45717,3.54619,3.5553,2.63386,2.34768,2.66285,2.378554495,2.198764495
+Enhanced Ambition,MI,resid heating,refined liquids,fuel furnace,1975$/GJ,4.40872,4.6776,7.7539,7.73926,5.41688,6.72399,5.977943244,6.721753244
+Enhanced Ambition,MI,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.63605,3.85782,6.39497,6.62225,4.63506,5.75352,5.115148652,5.751598652
+Enhanced Ambition,MI,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.25594,6.52352,6.61475,5.46515,3.52466,3.48678,3.94432,4.03855
+Enhanced Ambition,MI,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2325,14.594,14.7981,13.9665,9.00745,8.91065,10.7373,10.9938
+Enhanced Ambition,MI,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2757,13.7337,13.9258,13.2314,8.44449,8.35374,10.0662,10.3067
+Enhanced Ambition,MI,resid hot water,gas,gas water heater,1975$/GJ,4.0814,5.89028,5.90542,4.1632,3.71085,4.20902,3.759646459,3.475466459
+Enhanced Ambition,MI,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93662,4.23813,4.24902,3.14778,2.80577,3.18243,2.842661713,2.627791713
+Enhanced Ambition,MI,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.97792,6.34251,10.5138,10.3606,7.25162,9.00147,8.002737085,8.998477085
+Enhanced Ambition,MI,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.30119,4.56351,7.56478,7.83364,5.48293,6.80599,6.050851942,6.803721942
+Enhanced Ambition,MN,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,MN,resid heating,coal,coal furnace,1975$/GJ,1.08176,0.949298,1.23182,1.36717,1.33057,1.30514,1.304681456,1.314881456
+Enhanced Ambition,MN,resid heating,electricity,electric furnace,1975$/GJ,14.4728,12.7286,12.5376,11.8052,7.86356,7.49752,8.70047,8.75121
+Enhanced Ambition,MN,resid heating,electricity,electric heat pump,1975$/GJ,6.34545,5.58075,5.49701,4.37231,2.91243,2.77686,3.14704,3.1654
+Enhanced Ambition,MN,resid heating,gas,gas furnace,1975$/GJ,2.90055,4.2688,4.28025,3.04448,2.69391,3.07999,2.731719756,2.511489756
+Enhanced Ambition,MN,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.3086,3.39762,3.40673,2.48529,2.19911,2.51428,2.229974495,2.050194495
+Enhanced Ambition,MN,resid heating,refined liquids,fuel furnace,1975$/GJ,4.27647,4.54535,7.62165,7.61179,5.28941,6.59652,5.850473244,6.594283244
+Enhanced Ambition,MN,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.52698,3.74874,6.2859,6.51318,4.52599,5.64444,5.006078652,5.642528652
+Enhanced Ambition,MN,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.16401,6.30067,6.20612,5.08138,3.38475,3.22719,3.5157,3.5362
+Enhanced Ambition,MN,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.0269,14.0955,13.8839,12.9857,8.64992,8.24727,9.57051,9.62633
+Enhanced Ambition,MN,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.0821,13.2646,13.0655,12.3023,8.1093,7.73182,8.97236,9.02468
+Enhanced Ambition,MN,resid hot water,gas,gas water heater,1975$/GJ,3.83462,5.6435,5.65864,3.92836,3.47601,3.97418,3.524806459,3.240636459
+Enhanced Ambition,MN,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.75906,4.06057,4.07146,2.97022,2.62821,3.00487,2.665091713,2.450231713
+Enhanced Ambition,MN,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.7986,6.16319,10.3344,10.19,7.08098,8.83082,7.832087085,8.827827085
+Enhanced Ambition,MN,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.17216,4.43449,7.43576,7.70461,5.35391,6.67696,5.921821942,6.674701942
+Enhanced Ambition,MO,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,MO,resid heating,coal,coal furnace,1975$/GJ,1.26376,1.1313,1.41382,1.54917,1.51257,1.48714,1.486681456,1.496881456
+Enhanced Ambition,MO,resid heating,electricity,electric furnace,1975$/GJ,14.6039,12.9841,13.0922,12.5145,8.25447,7.73548,8.587,8.58932
+Enhanced Ambition,MO,resid heating,electricity,electric heat pump,1975$/GJ,6.40295,5.69274,5.74016,4.63501,3.05721,2.86499,3.106,3.10684
+Enhanced Ambition,MO,resid heating,gas,gas furnace,1975$/GJ,3.47324,4.84149,4.85294,3.60285,3.25229,3.63837,3.290099756,3.069869756
+Enhanced Ambition,MO,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.76442,3.85343,3.86255,2.9411,2.65493,2.97009,2.685794495,2.506014495
+Enhanced Ambition,MO,resid heating,refined liquids,fuel furnace,1975$/GJ,4.37984,4.64873,7.72502,7.71142,5.38904,6.69616,5.950113244,6.693923244
+Enhanced Ambition,MO,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.61224,3.834,6.37115,6.59844,4.61124,5.7297,5.091338652,5.727788652
+Enhanced Ambition,MO,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.22893,6.42711,6.48064,5.38669,3.55301,3.32962,3.46985,3.47079
+Enhanced Ambition,MO,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.1721,14.3783,14.4981,13.766,9.07992,8.50902,9.4457,9.44826
+Enhanced Ambition,MO,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2188,13.5308,13.6434,13.0415,8.51242,7.97721,8.85534,8.85774
+Enhanced Ambition,MO,resid hot water,gas,gas water heater,1975$/GJ,4.59174,6.40062,6.41575,4.64884,4.1965,4.69467,4.245286459,3.961116459
+Enhanced Ambition,MO,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.30381,4.60532,4.61621,3.51498,3.17296,3.54963,3.209851713,2.994991713
+Enhanced Ambition,MO,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.93877,6.30336,10.4746,10.3234,7.21437,8.96421,7.965477085,8.961217085
+Enhanced Ambition,MO,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.27301,4.53534,7.53661,7.80547,5.45476,6.77782,6.022681942,6.775551942
+Enhanced Ambition,MS,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,MS,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,MS,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.027,7.84957,8.28896,8.84653
+Enhanced Ambition,MS,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97296,2.90725,2.9982,3.19988
+Enhanced Ambition,MS,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,MS,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,MS,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,MS,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,MS,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.4551,3.37873,3.34942,3.57472
+Enhanced Ambition,MS,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.8297,8.63453,9.11785,9.73119
+Enhanced Ambition,MS,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27785,8.09487,8.54799,9.12299
+Enhanced Ambition,MS,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,MS,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,MS,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,MS,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,MT,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,MT,resid heating,coal,coal furnace,1975$/GJ,1.53676,1.4043,1.68682,1.82217,1.78557,1.76014,1.759681456,1.769881456
+Enhanced Ambition,MT,resid heating,electricity,electric furnace,1975$/GJ,14.9484,12.9766,12.9464,12.0526,7.75062,6.92661,7.27435,7.436
+Enhanced Ambition,MT,resid heating,electricity,electric heat pump,1975$/GJ,6.55401,5.68946,5.67625,4.46394,2.8706,2.56541,2.6312,2.68967
+Enhanced Ambition,MT,resid heating,gas,gas furnace,1975$/GJ,3.08081,4.44906,4.46051,3.22023,2.86966,3.25574,2.907469756,2.687239756
+Enhanced Ambition,MT,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45207,3.54109,3.5502,2.62876,2.34258,2.65775,2.373444495,2.193664495
+Enhanced Ambition,MT,resid heating,refined liquids,fuel furnace,1975$/GJ,4.84722,5.1161,8.1924,8.16191,5.83953,7.14664,6.400593244,7.144403244
+Enhanced Ambition,MT,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.9977,4.21947,6.75662,6.9839,4.99671,6.11517,5.476798652,6.113248652
+Enhanced Ambition,MT,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.39948,6.4234,6.40849,5.18788,3.33614,2.98145,2.93943,3.00475
+Enhanced Ambition,MT,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.5536,14.37,14.3367,13.2579,8.52569,7.61927,8.00178,8.17959
+Enhanced Ambition,MT,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.5778,13.5229,13.4916,12.5601,7.99283,7.14306,7.50167,7.66837
+Enhanced Ambition,MT,resid hot water,gas,gas water heater,1975$/GJ,4.07293,5.8818,5.89694,4.15513,3.70279,4.20096,3.751576459,3.467406459
+Enhanced Ambition,MT,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93052,4.23203,4.24292,3.14168,2.79967,3.17633,2.836561713,2.621701713
+Enhanced Ambition,MT,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.5725,6.93709,11.1083,10.9264,7.81743,9.56728,8.568537085,9.564277085
+Enhanced Ambition,MT,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.72899,4.99132,7.99258,8.26144,5.91074,7.23379,6.478651942,7.231531942
+Enhanced Ambition,NC,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,NC,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,NC,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.02749,7.85032,8.29034,8.84845
+Enhanced Ambition,NC,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97314,2.90753,2.9987,3.20057
+Enhanced Ambition,NC,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,NC,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,NC,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,NC,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,NC,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.45531,3.37905,3.34997,3.5755
+Enhanced Ambition,NC,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.83024,8.63535,9.11937,9.7333
+Enhanced Ambition,NC,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27835,8.09564,8.54941,9.12497
+Enhanced Ambition,NC,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,NC,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,NC,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,NC,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,ND,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,ND,resid heating,coal,coal furnace,1975$/GJ,1.08176,0.949298,1.23182,1.36717,1.33057,1.30514,1.304681456,1.314881456
+Enhanced Ambition,ND,resid heating,electricity,electric furnace,1975$/GJ,14.4728,12.7286,12.5376,11.8052,7.86412,7.49826,8.7017,8.75284
+Enhanced Ambition,ND,resid heating,electricity,electric heat pump,1975$/GJ,6.34545,5.58075,5.49701,4.37231,2.91264,2.77713,3.14749,3.16599
+Enhanced Ambition,ND,resid heating,gas,gas furnace,1975$/GJ,2.90055,4.2688,4.28025,3.04448,2.69391,3.07999,2.731719756,2.511489756
+Enhanced Ambition,ND,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.3086,3.39762,3.40673,2.48529,2.19911,2.51428,2.229974495,2.050194495
+Enhanced Ambition,ND,resid heating,refined liquids,fuel furnace,1975$/GJ,4.27647,4.54535,7.62165,7.61179,5.28941,6.59652,5.850473244,6.594283244
+Enhanced Ambition,ND,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.52698,3.74874,6.2859,6.51318,4.52599,5.64444,5.006078652,5.642528652
+Enhanced Ambition,ND,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.16401,6.30067,6.20612,5.08138,3.38499,3.22751,3.5162,3.53686
+Enhanced Ambition,ND,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.0269,14.0955,13.8839,12.9857,8.65053,8.24809,9.57187,9.62813
+Enhanced Ambition,ND,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.0821,13.2646,13.0655,12.3023,8.10987,7.73258,8.97363,9.02637
+Enhanced Ambition,ND,resid hot water,gas,gas water heater,1975$/GJ,3.83462,5.6435,5.65864,3.92836,3.47601,3.97418,3.524806459,3.240636459
+Enhanced Ambition,ND,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.75906,4.06057,4.07146,2.97022,2.62821,3.00487,2.665091713,2.450231713
+Enhanced Ambition,ND,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.7986,6.16319,10.3344,10.19,7.08098,8.83082,7.832087085,8.827827085
+Enhanced Ambition,ND,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.17216,4.43449,7.43576,7.70461,5.35391,6.67696,5.921821942,6.674701942
+Enhanced Ambition,NE,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,NE,resid heating,coal,coal furnace,1975$/GJ,1.08176,0.949298,1.23182,1.36717,1.33057,1.30514,1.304681456,1.314881456
+Enhanced Ambition,NE,resid heating,electricity,electric furnace,1975$/GJ,14.4728,12.7286,12.5376,11.8052,7.86787,7.50341,8.71103,8.76614
+Enhanced Ambition,NE,resid heating,electricity,electric heat pump,1975$/GJ,6.34545,5.58075,5.49701,4.37231,2.91402,2.77904,3.15087,3.1708
+Enhanced Ambition,NE,resid heating,gas,gas furnace,1975$/GJ,2.90055,4.2688,4.28025,3.04448,2.69391,3.07999,2.731719756,2.511489756
+Enhanced Ambition,NE,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.3086,3.39762,3.40673,2.48529,2.19911,2.51428,2.229974495,2.050194495
+Enhanced Ambition,NE,resid heating,refined liquids,fuel furnace,1975$/GJ,4.27647,4.54535,7.62165,7.61179,5.28941,6.59652,5.850473244,6.594283244
+Enhanced Ambition,NE,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.52698,3.74874,6.2859,6.51318,4.52599,5.64444,5.006078652,5.642528652
+Enhanced Ambition,NE,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.16401,6.30067,6.20612,5.08138,3.3866,3.22973,3.51997,3.54224
+Enhanced Ambition,NE,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.0269,14.0955,13.8839,12.9857,8.65465,8.25375,9.58214,9.64276
+Enhanced Ambition,NE,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.0821,13.2646,13.0655,12.3023,8.11374,7.73789,8.98325,9.04008
+Enhanced Ambition,NE,resid hot water,gas,gas water heater,1975$/GJ,3.83462,5.6435,5.65864,3.92836,3.47601,3.97418,3.524806459,3.240636459
+Enhanced Ambition,NE,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.75906,4.06057,4.07146,2.97022,2.62821,3.00487,2.665091713,2.450231713
+Enhanced Ambition,NE,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.7986,6.16319,10.3344,10.19,7.08098,8.83082,7.832087085,8.827827085
+Enhanced Ambition,NE,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.17216,4.43449,7.43576,7.70461,5.35391,6.67696,5.921821942,6.674701942
+Enhanced Ambition,NH,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,NH,resid heating,coal,coal furnace,1975$/GJ,3.27801,3.14555,3.42807,3.56342,3.52682,3.50139,3.500931456,3.511131456
+Enhanced Ambition,NH,resid heating,electricity,electric furnace,1975$/GJ,15.781,15.2385,15.1917,13.2783,9.11914,8.2503,8.70031,8.65409
+Enhanced Ambition,NH,resid heating,electricity,electric heat pump,1975$/GJ,6.91902,6.6812,6.66065,4.9179,3.37746,3.05567,3.14699,3.13027
+Enhanced Ambition,NH,resid heating,gas,gas furnace,1975$/GJ,3.82952,5.19777,5.20922,3.95023,3.59966,3.98574,3.637469756,3.417239756
+Enhanced Ambition,NH,resid heating,gas,gas furnace hi-eff,1975$/GJ,3.04799,4.137,4.14612,3.22468,2.9385,3.25367,2.969364495,2.789584495
+Enhanced Ambition,NH,resid heating,refined liquids,fuel furnace,1975$/GJ,4.36534,4.63423,7.71052,7.69745,5.37507,6.68218,5.936143244,6.679943244
+Enhanced Ambition,NH,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.60028,3.82204,6.3592,6.58648,4.59928,5.71774,5.079378652,5.715828652
+Enhanced Ambition,NH,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.81157,7.54308,7.51987,5.71545,3.9252,3.55122,3.51564,3.49696
+Enhanced Ambition,NH,resid hot water,electricity,electric resistance water heater,1975$/GJ,17.4756,16.8749,16.823,14.6062,10.0311,9.07533,9.57035,9.5195
+Enhanced Ambition,NH,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,16.4454,15.8802,15.8313,13.8374,9.40412,8.50812,8.9722,8.92454
+Enhanced Ambition,NH,resid hot water,gas,gas water heater,1975$/GJ,5.06276,6.87163,6.88677,5.09707,4.64472,5.14289,4.693516459,4.409346459
+Enhanced Ambition,NH,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.64272,4.94422,4.95512,3.85388,3.51186,3.88853,3.548751713,3.333891713
+Enhanced Ambition,NH,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.91911,6.2837,10.4549,10.3046,7.19566,8.9455,7.946767085,8.942507085
+Enhanced Ambition,NH,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.25887,4.5212,7.52246,7.79132,5.44062,6.76367,6.008531942,6.761411942
+Enhanced Ambition,NJ,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.13298,5.15798
+Enhanced Ambition,NJ,resid heating,coal,coal furnace,1975$/GJ,1.85101,1.71855,2.00107,2.13642,2.09982,2.07439,2.07424,2.08444
+Enhanced Ambition,NJ,resid heating,electricity,electric furnace,1975$/GJ,14.7107,13.6365,13.6737,12.3398,8.72372,7.65056,7.70805,8.0191
+Enhanced Ambition,NJ,resid heating,electricity,electric heat pump,1975$/GJ,6.44978,5.97881,5.9951,4.57031,3.23101,2.83354,2.78808,2.90059
+Enhanced Ambition,NJ,resid heating,gas,gas furnace,1975$/GJ,3.29504,4.66329,4.67474,3.4291,3.07854,3.46462,3.11643,2.8962
+Enhanced Ambition,NJ,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.62258,3.7116,3.72071,2.79927,2.51309,2.82826,2.54402,2.36424
+Enhanced Ambition,NJ,resid heating,refined liquids,fuel furnace,1975$/GJ,4.50384,4.77273,7.84902,7.83094,5.50856,6.81568,6.06974,6.81355
+Enhanced Ambition,NJ,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.71451,3.93627,6.47342,6.7007,4.71351,5.83197,5.19369,5.83015
+Enhanced Ambition,NJ,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.2818,6.75007,6.76847,5.3115,3.75499,3.29307,3.11468,3.24037
+Enhanced Ambition,NJ,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2904,15.1008,15.142,13.5738,9.5961,8.41562,8.47885,8.82101
+Enhanced Ambition,NJ,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.3301,14.2107,14.2494,12.8594,8.99634,7.88964,7.94893,8.2697
+Enhanced Ambition,NJ,resid hot water,gas,gas water heater,1975$/GJ,4.35615,6.16502,6.18016,4.42465,3.9723,4.47047,4.0212,3.73703
+Enhanced Ambition,NJ,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.1343,4.43581,4.4467,3.34547,3.00345,3.38011,3.04042,2.82556
+Enhanced Ambition,NJ,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.1069,6.4715,10.6427,10.4834,7.37437,9.12421,8.12562,9.12136
+Enhanced Ambition,NJ,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.39399,4.65632,7.65758,7.92644,5.57574,6.89879,6.14376,6.89664
+Enhanced Ambition,NM,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,NM,resid heating,coal,coal furnace,1975$/GJ,1.17701,1.04455,1.32707,1.46242,1.42582,1.40039,1.399931456,1.410131456
+Enhanced Ambition,NM,resid heating,electricity,electric furnace,1975$/GJ,14.1668,12.2438,12.1592,11.2535,7.53699,6.92896,7.62562,8.06845
+Enhanced Ambition,NM,resid heating,electricity,electric heat pump,1975$/GJ,6.21131,5.36818,5.33109,4.16797,2.79148,2.56628,2.75826,2.91844
+Enhanced Ambition,NM,resid heating,gas,gas furnace,1975$/GJ,2.85811,4.22636,4.23781,3.0031,2.65254,3.03862,2.690349756,2.470119756
+Enhanced Ambition,NM,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.27482,3.36384,3.37295,2.45151,2.16534,2.4805,2.196204495,2.016424495
+Enhanced Ambition,NM,resid heating,refined liquids,fuel furnace,1975$/GJ,4.28884,4.55773,7.63402,7.62371,5.30133,6.60845,5.862403244,6.606213244
+Enhanced Ambition,NM,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.53719,3.75895,6.2961,6.52338,4.53619,5.65465,5.016288652,5.652738652
+Enhanced Ambition,NM,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.01257,6.06067,6.0188,4.84391,3.24418,2.98246,3.08137,3.26031
+Enhanced Ambition,NM,resid hot water,electricity,electric resistance water heater,1975$/GJ,15.6881,13.5585,13.4649,12.3789,8.29069,7.62185,8.38818,8.87529
+Enhanced Ambition,NM,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,14.7633,12.7593,12.6712,11.7274,7.77252,7.14549,7.86392,8.32059
+Enhanced Ambition,NM,resid hot water,gas,gas water heater,1975$/GJ,3.77852,5.5874,5.60253,3.87497,3.42263,3.92079,3.471416459,3.187246459
+Enhanced Ambition,NM,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.71869,4.0202,4.03109,2.92986,2.58784,2.9645,2.624731713,2.409871713
+Enhanced Ambition,NM,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.81538,6.17997,10.3512,10.2059,7.09695,8.84679,7.848057085,8.843797085
+Enhanced Ambition,NM,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.18423,4.44656,7.44783,7.71669,5.36598,6.68904,5.933891942,6.686771942
+Enhanced Ambition,NV,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,NV,resid heating,coal,coal furnace,1975$/GJ,1.53676,1.4043,1.68682,1.82217,1.78557,1.76014,1.759681456,1.769881456
+Enhanced Ambition,NV,resid heating,electricity,electric furnace,1975$/GJ,14.9484,12.9766,12.9464,12.0526,7.79909,6.93367,7.29162,7.47259
+Enhanced Ambition,NV,resid heating,electricity,electric heat pump,1975$/GJ,6.55401,5.68946,5.67625,4.46394,2.88855,2.56802,2.63745,2.70291
+Enhanced Ambition,NV,resid heating,gas,gas furnace,1975$/GJ,3.08081,4.44906,4.46051,3.22023,2.86966,3.25574,2.907469756,2.687239756
+Enhanced Ambition,NV,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45207,3.54109,3.5502,2.62876,2.34258,2.65775,2.373444495,2.193664495
+Enhanced Ambition,NV,resid heating,refined liquids,fuel furnace,1975$/GJ,4.84722,5.1161,8.1924,8.16191,5.83953,7.14664,6.400593244,7.144403244
+Enhanced Ambition,NV,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.9977,4.21947,6.75662,6.9839,4.99671,6.11517,5.476798652,6.113248652
+Enhanced Ambition,NV,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.39948,6.4234,6.40849,5.18788,3.357,2.98449,2.94641,3.01954
+Enhanced Ambition,NV,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.5536,14.37,14.3367,13.2579,8.579,7.62703,8.02079,8.21985
+Enhanced Ambition,NV,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.5778,13.5229,13.4916,12.5601,8.04281,7.15034,7.51949,7.70611
+Enhanced Ambition,NV,resid hot water,gas,gas water heater,1975$/GJ,4.07293,5.8818,5.89694,4.15513,3.70279,4.20096,3.751576459,3.467406459
+Enhanced Ambition,NV,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93052,4.23203,4.24292,3.14168,2.79967,3.17633,2.836561713,2.621701713
+Enhanced Ambition,NV,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.5725,6.93709,11.1083,10.9264,7.81743,9.56728,8.568537085,9.564277085
+Enhanced Ambition,NV,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.72899,4.99132,7.99258,8.26144,5.91074,7.23379,6.478651942,7.231531942
+Enhanced Ambition,NY,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,NY,resid heating,coal,coal furnace,1975$/GJ,2.54601,2.41355,2.69607,2.83142,2.79482,2.76939,2.768931456,2.779131456
+Enhanced Ambition,NY,resid heating,electricity,electric furnace,1975$/GJ,14.1833,13.9594,14.0021,12.2971,8.31459,7.40259,7.69075,7.58202
+Enhanced Ambition,NY,resid heating,electricity,electric heat pump,1975$/GJ,6.21854,6.12035,6.13911,4.5545,3.07948,2.7417,2.78182,2.74249
+Enhanced Ambition,NY,resid heating,gas,gas furnace,1975$/GJ,3.7235,5.09175,5.1032,3.84685,3.49629,3.88237,3.534099756,3.313869756
+Enhanced Ambition,NY,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.9636,4.05262,4.06173,3.14029,2.85411,3.16928,2.884974495,2.705194495
+Enhanced Ambition,NY,resid heating,refined liquids,fuel furnace,1975$/GJ,4.60734,4.87623,7.95252,7.9307,5.60832,6.91543,6.169393244,6.913193244
+Enhanced Ambition,NY,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.79987,4.02163,6.55878,6.78606,4.79887,5.91733,5.278968652,5.915418652
+Enhanced Ambition,NY,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.02073,6.90988,6.93105,5.29312,3.57889,3.18633,3.10769,3.06375
+Enhanced Ambition,NY,resid hot water,electricity,electric resistance water heater,1975$/GJ,15.7063,15.4583,15.5057,13.5269,9.14605,8.14285,8.45983,8.34022
+Enhanced Ambition,NY,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,14.7805,14.5471,14.5917,12.8149,8.57442,7.63393,7.93109,7.81896
+Enhanced Ambition,NY,resid hot water,gas,gas water heater,1975$/GJ,4.92259,6.73146,6.7466,4.96368,4.51134,5.0095,4.560126459,4.275956459
+Enhanced Ambition,NY,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.54186,4.84337,4.85426,3.75303,3.41101,3.78767,3.447901713,3.233041713
+Enhanced Ambition,NY,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.24724,6.61183,10.7831,10.6169,7.50791,9.25776,8.259027085,9.254767085
+Enhanced Ambition,NY,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.49497,4.7573,7.75856,8.02742,5.67672,6.99977,6.244631942,6.997501942
+Enhanced Ambition,OH,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,OH,resid heating,coal,coal furnace,1975$/GJ,1.51201,1.37955,1.66207,1.79742,1.76082,1.73539,1.734931456,1.745131456
+Enhanced Ambition,OH,resid heating,electricity,electric furnace,1975$/GJ,14.6585,13.1788,13.3631,12.6968,8.18932,8.10176,9.76491,10.0002
+Enhanced Ambition,OH,resid heating,electricity,electric heat pump,1975$/GJ,6.42687,5.77814,5.85895,4.70252,3.03308,3.00065,3.53206,3.61716
+Enhanced Ambition,OH,resid heating,gas,gas furnace,1975$/GJ,3.08722,4.45547,4.46692,3.22648,2.87591,3.26199,2.913719756,2.693489756
+Enhanced Ambition,OH,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45717,3.54619,3.5553,2.63386,2.34768,2.66285,2.378554495,2.198764495
+Enhanced Ambition,OH,resid heating,refined liquids,fuel furnace,1975$/GJ,4.40872,4.6776,7.7539,7.73926,5.41688,6.72399,5.977943244,6.721753244
+Enhanced Ambition,OH,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.63605,3.85782,6.39497,6.62225,4.63506,5.75352,5.115148652,5.751598652
+Enhanced Ambition,OH,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.25594,6.52352,6.61475,5.46515,3.52497,3.48728,3.94582,4.04088
+Enhanced Ambition,OH,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2325,14.594,14.7981,13.9665,9.00825,8.91193,10.7414,11.0002
+Enhanced Ambition,OH,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2757,13.7337,13.9258,13.2314,8.44524,8.35494,10.0701,10.3127
+Enhanced Ambition,OH,resid hot water,gas,gas water heater,1975$/GJ,4.0814,5.89028,5.90542,4.1632,3.71085,4.20902,3.759646459,3.475466459
+Enhanced Ambition,OH,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93662,4.23813,4.24902,3.14778,2.80577,3.18243,2.842661713,2.627791713
+Enhanced Ambition,OH,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.97792,6.34251,10.5138,10.3606,7.25162,9.00147,8.002737085,8.998477085
+Enhanced Ambition,OH,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.30119,4.56351,7.56478,7.83364,5.48293,6.80599,6.050851942,6.803721942
+Enhanced Ambition,OK,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,OK,resid heating,coal,coal furnace,1975$/GJ,1.11901,0.986548,1.26907,1.40442,1.36782,1.34239,1.341931456,1.352131456
+Enhanced Ambition,OK,resid heating,electricity,electric furnace,1975$/GJ,12.6849,12.023,11.9491,9.95603,7.57966,7.07391,7.34066,7.7025
+Enhanced Ambition,OK,resid heating,electricity,electric heat pump,1975$/GJ,5.56157,5.27136,5.23897,3.68742,2.80728,2.61997,2.65519,2.78607
+Enhanced Ambition,OK,resid heating,gas,gas furnace,1975$/GJ,2.86657,4.23482,4.24628,3.01135,2.66079,3.04687,2.698599756,2.478369756
+Enhanced Ambition,OK,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.28156,3.37057,3.37969,2.45825,2.17207,2.48724,2.202934495,2.023154495
+Enhanced Ambition,OK,resid heating,refined liquids,fuel furnace,1975$/GJ,4.05722,4.3261,7.4024,7.40046,5.07808,6.38519,5.639153244,6.382953244
+Enhanced Ambition,OK,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.34616,3.56792,6.10507,6.33235,4.34516,5.46362,4.825248652,5.461708652
+Enhanced Ambition,OK,resid hot water,electricity,electric heat pump water heater,1975$/GJ,6.27902,5.95136,5.9148,4.28542,3.26255,3.04486,2.96623,3.11244
+Enhanced Ambition,OK,resid hot water,electricity,electric resistance water heater,1975$/GJ,14.047,13.314,13.2322,10.9516,8.33763,7.78131,8.07473,8.47275
+Enhanced Ambition,OK,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,13.219,12.5292,12.4522,10.3752,7.81652,7.29497,7.57006,7.9432
+Enhanced Ambition,OK,resid hot water,gas,gas water heater,1975$/GJ,3.78971,5.59858,5.61372,3.88562,3.43327,3.93144,3.482066459,3.197886459
+Enhanced Ambition,OK,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.72674,4.02825,4.03914,2.9379,2.59589,2.97255,2.632781713,2.417921713
+Enhanced Ambition,OK,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.50131,5.8659,10.0372,9.90707,6.79807,8.54792,7.549187085,8.544927085
+Enhanced Ambition,OK,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.95826,4.22059,7.22185,7.49071,5.14001,6.46306,5.707921942,6.460801942
+Enhanced Ambition,OR,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,OR,resid heating,coal,coal furnace,1975$/GJ,1.53676,1.4043,1.68682,1.82217,1.78557,1.76014,1.759681456,1.769881456
+Enhanced Ambition,OR,resid heating,electricity,electric furnace,1975$/GJ,14.9484,12.9766,12.9464,12.0526,7.75011,6.92649,7.27406,7.43539
+Enhanced Ambition,OR,resid heating,electricity,electric heat pump,1975$/GJ,6.55401,5.68946,5.67625,4.46394,2.87041,2.56537,2.6311,2.68945
+Enhanced Ambition,OR,resid heating,gas,gas furnace,1975$/GJ,3.08081,4.44906,4.46051,3.22023,2.86966,3.25574,2.907469756,2.687239756
+Enhanced Ambition,OR,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45207,3.54109,3.5502,2.62876,2.34258,2.65775,2.373444495,2.193664495
+Enhanced Ambition,OR,resid heating,refined liquids,fuel furnace,1975$/GJ,4.84722,5.1161,8.1924,8.16191,5.83953,7.14664,6.400593244,7.144403244
+Enhanced Ambition,OR,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.9977,4.21947,6.75662,6.9839,4.99671,6.11517,5.476798652,6.113248652
+Enhanced Ambition,OR,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.39948,6.4234,6.40849,5.18788,3.33592,2.9814,2.93931,3.0045
+Enhanced Ambition,OR,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.5536,14.37,14.3367,13.2579,8.52512,7.61914,8.00146,8.17893
+Enhanced Ambition,OR,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.5778,13.5229,13.4916,12.5601,7.9923,7.14295,7.50137,7.66775
+Enhanced Ambition,OR,resid hot water,gas,gas water heater,1975$/GJ,4.07293,5.8818,5.89694,4.15513,3.70279,4.20096,3.751576459,3.467406459
+Enhanced Ambition,OR,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93052,4.23203,4.24292,3.14168,2.79967,3.17633,2.836561713,2.621701713
+Enhanced Ambition,OR,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.5725,6.93709,11.1083,10.9264,7.81743,9.56728,8.568537085,9.564277085
+Enhanced Ambition,OR,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.72899,4.99132,7.99258,8.26144,5.91074,7.23379,6.478651942,7.231531942
+Enhanced Ambition,PA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,PA,resid heating,coal,coal furnace,1975$/GJ,1.85101,1.71855,2.00107,2.13642,2.09982,2.07439,2.073931456,2.084131456
+Enhanced Ambition,PA,resid heating,electricity,electric furnace,1975$/GJ,14.7107,13.6365,13.6737,12.3398,8.7244,7.65119,7.70906,8.02122
+Enhanced Ambition,PA,resid heating,electricity,electric heat pump,1975$/GJ,6.44978,5.97881,5.9951,4.57031,3.23126,2.83377,2.78844,2.90136
+Enhanced Ambition,PA,resid heating,gas,gas furnace,1975$/GJ,3.29504,4.66329,4.67474,3.4291,3.07854,3.46462,3.116349756,2.896119756
+Enhanced Ambition,PA,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.62258,3.7116,3.72071,2.79927,2.51309,2.82826,2.543954495,2.364174495
+Enhanced Ambition,PA,resid heating,refined liquids,fuel furnace,1975$/GJ,4.50384,4.77273,7.84902,7.83094,5.50856,6.81568,6.069633244,6.813443244
+Enhanced Ambition,PA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.71451,3.93627,6.47342,6.7007,4.71351,5.83197,5.193598652,5.830058652
+Enhanced Ambition,PA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.2818,6.75007,6.76847,5.3115,3.75529,3.29334,3.11509,3.24123
+Enhanced Ambition,PA,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2904,15.1008,15.142,13.5738,9.59685,8.41631,8.47996,8.82335
+Enhanced Ambition,PA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.3301,14.2107,14.2494,12.8594,8.99704,7.89029,7.94997,8.27189
+Enhanced Ambition,PA,resid hot water,gas,gas water heater,1975$/GJ,4.35615,6.16502,6.18016,4.42465,3.9723,4.47047,4.021096459,3.736926459
+Enhanced Ambition,PA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.1343,4.43581,4.4467,3.34547,3.00345,3.38011,3.040341713,2.825481713
+Enhanced Ambition,PA,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.1069,6.4715,10.6427,10.4834,7.37437,9.12421,8.125477085,9.121217085
+Enhanced Ambition,PA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.39399,4.65632,7.65758,7.92644,5.57574,6.89879,6.143651942,6.896531942
+Enhanced Ambition,RI,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,RI,resid heating,coal,coal furnace,1975$/GJ,3.27801,3.14555,3.42807,3.56342,3.52682,3.50139,3.500931456,3.511131456
+Enhanced Ambition,RI,resid heating,electricity,electric furnace,1975$/GJ,15.781,15.2385,15.1917,13.2783,9.11956,8.25066,8.70105,8.65541
+Enhanced Ambition,RI,resid heating,electricity,electric heat pump,1975$/GJ,6.91902,6.6812,6.66065,4.9179,3.37761,3.0558,3.14726,3.13075
+Enhanced Ambition,RI,resid heating,gas,gas furnace,1975$/GJ,3.82952,5.19777,5.20922,3.95023,3.59966,3.98574,3.637469756,3.417239756
+Enhanced Ambition,RI,resid heating,gas,gas furnace hi-eff,1975$/GJ,3.04799,4.137,4.14612,3.22468,2.9385,3.25367,2.969364495,2.789584495
+Enhanced Ambition,RI,resid heating,refined liquids,fuel furnace,1975$/GJ,4.36534,4.63423,7.71052,7.69745,5.37507,6.68218,5.936143244,6.679943244
+Enhanced Ambition,RI,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.60028,3.82204,6.3592,6.58648,4.59928,5.71774,5.079378652,5.715828652
+Enhanced Ambition,RI,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.81157,7.54308,7.51987,5.71545,3.92538,3.55137,3.51593,3.49749
+Enhanced Ambition,RI,resid hot water,electricity,electric resistance water heater,1975$/GJ,17.4756,16.8749,16.823,14.6062,10.0315,9.07572,9.57116,9.52095
+Enhanced Ambition,RI,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,16.4454,15.8802,15.8313,13.8374,9.40454,8.50849,8.97296,8.9259
+Enhanced Ambition,RI,resid hot water,gas,gas water heater,1975$/GJ,5.06276,6.87163,6.88677,5.09707,4.64472,5.14289,4.693516459,4.409346459
+Enhanced Ambition,RI,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.64272,4.94422,4.95512,3.85388,3.51186,3.88853,3.548751713,3.333891713
+Enhanced Ambition,RI,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.91911,6.2837,10.4549,10.3046,7.19566,8.9455,7.946767085,8.942507085
+Enhanced Ambition,RI,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.25887,4.5212,7.52246,7.79132,5.44062,6.76367,6.008531942,6.761411942
+Enhanced Ambition,SC,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,SC,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,SC,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.02739,7.85027,8.29028,8.84796
+Enhanced Ambition,SC,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97311,2.90751,2.99867,3.20039
+Enhanced Ambition,SC,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,SC,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,SC,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,SC,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,SC,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.45527,3.37903,3.34995,3.5753
+Enhanced Ambition,SC,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.83013,8.63529,9.1193,9.73275
+Enhanced Ambition,SC,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27824,8.09559,8.54935,9.12446
+Enhanced Ambition,SC,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,SC,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,SC,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,SC,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,SD,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,SD,resid heating,coal,coal furnace,1975$/GJ,1.08176,0.949298,1.23182,1.36717,1.33057,1.30514,1.304681456,1.314881456
+Enhanced Ambition,SD,resid heating,electricity,electric furnace,1975$/GJ,14.4728,12.7286,12.5376,11.8052,7.86697,7.5022,8.70893,8.76315
+Enhanced Ambition,SD,resid heating,electricity,electric heat pump,1975$/GJ,6.34545,5.58075,5.49701,4.37231,2.91369,2.77859,3.15011,3.16972
+Enhanced Ambition,SD,resid heating,gas,gas furnace,1975$/GJ,2.90055,4.2688,4.28025,3.04448,2.69391,3.07999,2.731719756,2.511489756
+Enhanced Ambition,SD,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.3086,3.39762,3.40673,2.48529,2.19911,2.51428,2.229974495,2.050194495
+Enhanced Ambition,SD,resid heating,refined liquids,fuel furnace,1975$/GJ,4.27647,4.54535,7.62165,7.61179,5.28941,6.59652,5.850473244,6.594283244
+Enhanced Ambition,SD,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.52698,3.74874,6.2859,6.51318,4.52599,5.64444,5.006078652,5.642528652
+Enhanced Ambition,SD,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.16401,6.30067,6.20612,5.08138,3.38622,3.22921,3.51912,3.54103
+Enhanced Ambition,SD,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.0269,14.0955,13.8839,12.9857,8.65367,8.25242,9.57982,9.63947
+Enhanced Ambition,SD,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.0821,13.2646,13.0655,12.3023,8.11282,7.73664,8.98108,9.037
+Enhanced Ambition,SD,resid hot water,gas,gas water heater,1975$/GJ,3.83462,5.6435,5.65864,3.92836,3.47601,3.97418,3.524806459,3.240636459
+Enhanced Ambition,SD,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.75906,4.06057,4.07146,2.97022,2.62821,3.00487,2.665091713,2.450231713
+Enhanced Ambition,SD,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.7986,6.16319,10.3344,10.19,7.08098,8.83082,7.832087085,8.827827085
+Enhanced Ambition,SD,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.17216,4.43449,7.43576,7.70461,5.35391,6.67696,5.921821942,6.674701942
+Enhanced Ambition,TN,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,TN,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,TN,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.0277,7.85054,8.29021,8.84777
+Enhanced Ambition,TN,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97322,2.90761,2.99865,3.20033
+Enhanced Ambition,TN,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,TN,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,TN,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,TN,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,TN,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.4554,3.37914,3.34992,3.57522
+Enhanced Ambition,TN,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.83047,8.63559,9.11923,9.73255
+Enhanced Ambition,TN,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27856,8.09587,8.54928,9.12426
+Enhanced Ambition,TN,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,TN,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,TN,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,TN,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,TX,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,TX,resid heating,coal,coal furnace,1975$/GJ,1.08176,0.949298,1.23182,1.36717,1.33057,1.30514,1.304681456,1.314881456
+Enhanced Ambition,TX,resid heating,electricity,electric furnace,1975$/GJ,13.0578,12.5653,12.3832,10.3233,7.05087,6.62081,7.06461,7.80946
+Enhanced Ambition,TX,resid heating,electricity,electric heat pump,1975$/GJ,5.72508,5.50912,5.42931,3.82343,2.61143,2.45215,2.55534,2.82476
+Enhanced Ambition,TX,resid heating,gas,gas furnace,1975$/GJ,2.22606,3.59431,3.60576,2.38685,2.03629,2.42237,2.074099756,1.853869756
+Enhanced Ambition,TX,resid heating,gas,gas furnace hi-eff,1975$/GJ,1.77176,2.86078,2.86989,1.94845,1.66227,1.97744,1.693144495,1.513354495
+Enhanced Ambition,TX,resid heating,refined liquids,fuel furnace,1975$/GJ,3.99509,4.26398,7.34027,7.34058,5.0182,6.32531,5.579273244,6.323073244
+Enhanced Ambition,TX,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.29492,3.51668,6.05383,6.28112,4.29392,5.41238,4.774018652,5.410468652
+Enhanced Ambition,TX,resid hot water,electricity,electric heat pump water heater,1975$/GJ,6.46361,6.2198,6.12969,4.44349,3.03494,2.84983,2.85468,3.15566
+Enhanced Ambition,TX,resid hot water,electricity,electric resistance water heater,1975$/GJ,14.46,13.9145,13.7129,11.3556,7.75596,7.28289,7.77107,8.5904
+Enhanced Ambition,TX,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,13.6076,13.0943,12.9046,10.7579,7.27121,6.82771,7.28537,8.0535
+Enhanced Ambition,TX,resid hot water,gas,gas water heater,1975$/GJ,2.94293,4.7518,4.76694,3.07981,2.62747,3.12563,2.676256459,2.392086459
+Enhanced Ambition,TX,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.11747,3.41898,3.42987,2.32864,1.98662,2.36328,2.023511713,1.808651713
+Enhanced Ambition,TX,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.41707,5.78166,9.95291,9.82691,6.71791,8.46776,7.469027085,8.464767085
+Enhanced Ambition,TX,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.89765,4.15998,7.16124,7.4301,5.0794,6.40245,5.647311942,6.400191942
+Enhanced Ambition,UT,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,UT,resid heating,coal,coal furnace,1975$/GJ,1.53676,1.4043,1.68682,1.82217,1.78557,1.76014,1.759681456,1.769881456
+Enhanced Ambition,UT,resid heating,electricity,electric furnace,1975$/GJ,14.9484,12.9766,12.9464,12.0526,7.75474,6.92754,7.2768,7.44137
+Enhanced Ambition,UT,resid heating,electricity,electric heat pump,1975$/GJ,6.55401,5.68946,5.67625,4.46394,2.87213,2.56575,2.63209,2.69162
+Enhanced Ambition,UT,resid heating,gas,gas furnace,1975$/GJ,3.08081,4.44906,4.46051,3.22023,2.86966,3.25574,2.907469756,2.687239756
+Enhanced Ambition,UT,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45207,3.54109,3.5502,2.62876,2.34258,2.65775,2.373444495,2.193664495
+Enhanced Ambition,UT,resid heating,refined liquids,fuel furnace,1975$/GJ,4.84722,5.1161,8.1924,8.16191,5.83953,7.14664,6.400593244,7.144403244
+Enhanced Ambition,UT,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.9977,4.21947,6.75662,6.9839,4.99671,6.11517,5.476798652,6.113248652
+Enhanced Ambition,UT,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.39948,6.4234,6.40849,5.18788,3.33791,2.98185,2.94042,3.00692
+Enhanced Ambition,UT,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.5536,14.37,14.3367,13.2579,8.53021,7.62029,8.00448,8.18551
+Enhanced Ambition,UT,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.5778,13.5229,13.4916,12.5601,7.99708,7.14402,7.5042,7.67391
+Enhanced Ambition,UT,resid hot water,gas,gas water heater,1975$/GJ,4.07293,5.8818,5.89694,4.15513,3.70279,4.20096,3.751576459,3.467406459
+Enhanced Ambition,UT,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93052,4.23203,4.24292,3.14168,2.79967,3.17633,2.836561713,2.621701713
+Enhanced Ambition,UT,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.5725,6.93709,11.1083,10.9264,7.81743,9.56728,8.568537085,9.564277085
+Enhanced Ambition,UT,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.72899,4.99132,7.99258,8.26144,5.91074,7.23379,6.478651942,7.231531942
+Enhanced Ambition,VA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,VA,resid heating,coal,coal furnace,1975$/GJ,1.93376,1.8013,2.08382,2.21917,2.18257,2.15714,2.156681456,2.166881456
+Enhanced Ambition,VA,resid heating,electricity,electric furnace,1975$/GJ,15.3459,13.6899,13.6037,12.1448,8.0258,7.84731,8.28461,8.84181
+Enhanced Ambition,VA,resid heating,electricity,electric heat pump,1975$/GJ,6.72827,6.00221,5.96441,4.49807,2.97252,2.90641,2.99662,3.19817
+Enhanced Ambition,VA,resid heating,gas,gas furnace,1975$/GJ,2.82837,4.19662,4.20807,2.9741,2.62354,3.00962,2.661349756,2.441119756
+Enhanced Ambition,VA,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.25115,3.34017,3.34928,2.42784,2.14166,2.45683,2.172534495,1.992744495
+Enhanced Ambition,VA,resid heating,refined liquids,fuel furnace,1975$/GJ,4.07784,4.34673,7.42302,7.42034,5.09796,6.40507,5.659033244,6.402833244
+Enhanced Ambition,VA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.36317,3.58493,6.12208,6.34936,4.36217,5.48063,4.842258652,5.478718652
+Enhanced Ambition,VA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.59621,6.7765,6.73382,5.22754,3.45458,3.37776,3.34766,3.57281
+Enhanced Ambition,VA,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.9938,15.16,15.0645,13.3593,8.82838,8.63204,9.11307,9.72599
+Enhanced Ambition,VA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.992,14.2663,14.1765,12.6562,8.27661,8.09254,8.5435,9.11811
+Enhanced Ambition,VA,resid hot water,gas,gas water heater,1975$/GJ,3.7392,5.54807,5.56321,3.83755,3.38521,3.88338,3.433996459,3.149826459
+Enhanced Ambition,VA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.6904,3.99191,4.0028,2.90156,2.55955,2.93621,2.596441713,2.381571713
+Enhanced Ambition,VA,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.52927,5.89387,10.0651,9.93368,6.82469,8.57453,7.575797085,8.571537085
+Enhanced Ambition,VA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,3.97838,4.24071,7.24197,7.51083,5.16013,6.48318,5.728041942,6.480921942
+Enhanced Ambition,VT,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,VT,resid heating,coal,coal furnace,1975$/GJ,3.27801,3.14555,3.42807,3.56342,3.52682,3.50139,3.500931456,3.511131456
+Enhanced Ambition,VT,resid heating,electricity,electric furnace,1975$/GJ,15.781,15.2385,15.1917,13.2783,9.11878,8.24998,8.69957,8.65262
+Enhanced Ambition,VT,resid heating,electricity,electric heat pump,1975$/GJ,6.91902,6.6812,6.66065,4.9179,3.37733,3.05555,3.14672,3.12974
+Enhanced Ambition,VT,resid heating,gas,gas furnace,1975$/GJ,3.82952,5.19777,5.20922,3.95023,3.59966,3.98574,3.637469756,3.417239756
+Enhanced Ambition,VT,resid heating,gas,gas furnace hi-eff,1975$/GJ,3.04799,4.137,4.14612,3.22468,2.9385,3.25367,2.969364495,2.789584495
+Enhanced Ambition,VT,resid heating,refined liquids,fuel furnace,1975$/GJ,4.36534,4.63423,7.71052,7.69745,5.37507,6.68218,5.936143244,6.679943244
+Enhanced Ambition,VT,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.60028,3.82204,6.3592,6.58648,4.59928,5.71774,5.079378652,5.715828652
+Enhanced Ambition,VT,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.81157,7.54308,7.51987,5.71545,3.92504,3.55108,3.51534,3.49636
+Enhanced Ambition,VT,resid hot water,electricity,electric resistance water heater,1975$/GJ,17.4756,16.8749,16.823,14.6062,10.0307,9.07498,9.56952,9.51788
+Enhanced Ambition,VT,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,16.4454,15.8802,15.8313,13.8374,9.40375,8.5078,8.97143,8.92301
+Enhanced Ambition,VT,resid hot water,gas,gas water heater,1975$/GJ,5.06276,6.87163,6.88677,5.09707,4.64472,5.14289,4.693516459,4.409346459
+Enhanced Ambition,VT,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.64272,4.94422,4.95512,3.85388,3.51186,3.88853,3.548751713,3.333891713
+Enhanced Ambition,VT,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.91911,6.2837,10.4549,10.3046,7.19566,8.9455,7.946767085,8.942507085
+Enhanced Ambition,VT,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.25887,4.5212,7.52246,7.79132,5.44062,6.76367,6.008531942,6.761411942
+Enhanced Ambition,WA,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.13298,5.15798
+Enhanced Ambition,WA,resid heating,coal,coal furnace,1975$/GJ,1.53676,1.4043,1.68682,1.82217,1.78557,1.76014,1.75999,1.77019
+Enhanced Ambition,WA,resid heating,electricity,electric furnace,1975$/GJ,14.9484,12.9766,12.9464,12.0526,7.74899,6.92612,7.27311,7.43349
+Enhanced Ambition,WA,resid heating,electricity,electric heat pump,1975$/GJ,6.55401,5.68946,5.67625,4.46394,2.87,2.56523,2.63076,2.68877
+Enhanced Ambition,WA,resid heating,gas,gas furnace,1975$/GJ,3.08081,4.44906,4.46051,3.22023,2.86966,3.25574,2.90755,2.68732
+Enhanced Ambition,WA,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45207,3.54109,3.5502,2.62876,2.34258,2.65775,2.37351,2.19373
+Enhanced Ambition,WA,resid heating,refined liquids,fuel furnace,1975$/GJ,4.84722,5.1161,8.1924,8.16191,5.83953,7.14664,6.4007,7.14451
+Enhanced Ambition,WA,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.9977,4.21947,6.75662,6.9839,4.99671,6.11517,5.47689,6.11334
+Enhanced Ambition,WA,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.39948,6.4234,6.40849,5.18788,3.33544,2.98124,2.93893,3.00374
+Enhanced Ambition,WA,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.5536,14.37,14.3367,13.2579,8.52389,7.61873,8.00043,8.17684
+Enhanced Ambition,WA,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.5778,13.5229,13.4916,12.5601,7.99115,7.14256,7.5004,7.66579
+Enhanced Ambition,WA,resid hot water,gas,gas water heater,1975$/GJ,4.07293,5.8818,5.89694,4.15513,3.70279,4.20096,3.75168,3.46751
+Enhanced Ambition,WA,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93052,4.23203,4.24292,3.14168,2.79967,3.17633,2.83664,2.62178
+Enhanced Ambition,WA,resid hot water,refined liquids,fuel water heater,1975$/GJ,6.5725,6.93709,11.1083,10.9264,7.81743,9.56728,8.56868,9.56442
+Enhanced Ambition,WA,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.72899,4.99132,7.99258,8.26144,5.91074,7.23379,6.47876,7.23164
+Enhanced Ambition,WI,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,WI,resid heating,coal,coal furnace,1975$/GJ,1.26376,1.1313,1.41382,1.54917,1.51257,1.48714,1.486681456,1.496881456
+Enhanced Ambition,WI,resid heating,electricity,electric furnace,1975$/GJ,14.6039,12.9841,13.0922,12.5145,8.25191,7.73329,8.58249,8.58077
+Enhanced Ambition,WI,resid heating,electricity,electric heat pump,1975$/GJ,6.40295,5.69274,5.74016,4.63501,3.05626,2.86418,3.10437,3.10375
+Enhanced Ambition,WI,resid heating,gas,gas furnace,1975$/GJ,3.47324,4.84149,4.85294,3.60285,3.25229,3.63837,3.290099756,3.069869756
+Enhanced Ambition,WI,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.76442,3.85343,3.86255,2.9411,2.65493,2.97009,2.685794495,2.506014495
+Enhanced Ambition,WI,resid heating,refined liquids,fuel furnace,1975$/GJ,4.37984,4.64873,7.72502,7.71142,5.38904,6.69616,5.950113244,6.693923244
+Enhanced Ambition,WI,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.61224,3.834,6.37115,6.59844,4.61124,5.7297,5.091338652,5.727788652
+Enhanced Ambition,WI,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.22893,6.42711,6.48064,5.38669,3.55191,3.32868,3.46803,3.46733
+Enhanced Ambition,WI,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.1721,14.3783,14.4981,13.766,9.0771,8.50661,9.44074,9.43884
+Enhanced Ambition,WI,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2188,13.5308,13.6434,13.0415,8.50978,7.97495,8.85069,8.84892
+Enhanced Ambition,WI,resid hot water,gas,gas water heater,1975$/GJ,4.59174,6.40062,6.41575,4.64884,4.1965,4.69467,4.245286459,3.961116459
+Enhanced Ambition,WI,resid hot water,gas,gas water heater hi-eff,1975$/GJ,3.30381,4.60532,4.61621,3.51498,3.17296,3.54963,3.209851713,2.994991713
+Enhanced Ambition,WI,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.93877,6.30336,10.4746,10.3234,7.21437,8.96421,7.965477085,8.961217085
+Enhanced Ambition,WI,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.27301,4.53534,7.53661,7.80547,5.45476,6.77782,6.022681942,6.775551942
+Enhanced Ambition,WV,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,WV,resid heating,coal,coal furnace,1975$/GJ,1.51201,1.37955,1.66207,1.79742,1.76082,1.73539,1.734931456,1.745131456
+Enhanced Ambition,WV,resid heating,electricity,electric furnace,1975$/GJ,14.6585,13.1788,13.3631,12.6968,8.1889,8.10111,9.76275,9.99675
+Enhanced Ambition,WV,resid heating,electricity,electric heat pump,1975$/GJ,6.42687,5.77814,5.85895,4.70252,3.03293,3.00041,3.53128,3.61593
+Enhanced Ambition,WV,resid heating,gas,gas furnace,1975$/GJ,3.08722,4.45547,4.46692,3.22648,2.87591,3.26199,2.913719756,2.693489756
+Enhanced Ambition,WV,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.45717,3.54619,3.5553,2.63386,2.34768,2.66285,2.378554495,2.198764495
+Enhanced Ambition,WV,resid heating,refined liquids,fuel furnace,1975$/GJ,4.40872,4.6776,7.7539,7.73926,5.41688,6.72399,5.977943244,6.721753244
+Enhanced Ambition,WV,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.63605,3.85782,6.39497,6.62225,4.63506,5.75352,5.115148652,5.751598652
+Enhanced Ambition,WV,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.25594,6.52352,6.61475,5.46515,3.52479,3.487,3.94495,4.0395
+Enhanced Ambition,WV,resid hot water,electricity,electric resistance water heater,1975$/GJ,16.2325,14.594,14.7981,13.9665,9.00779,8.91122,10.739,10.9964
+Enhanced Ambition,WV,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,15.2757,13.7337,13.9258,13.2314,8.44481,8.35427,10.0678,10.3092
+Enhanced Ambition,WV,resid hot water,gas,gas water heater,1975$/GJ,4.0814,5.89028,5.90542,4.1632,3.71085,4.20902,3.759646459,3.475466459
+Enhanced Ambition,WV,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.93662,4.23813,4.24902,3.14778,2.80577,3.18243,2.842661713,2.627791713
+Enhanced Ambition,WV,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.97792,6.34251,10.5138,10.3606,7.25162,9.00147,8.002737085,8.998477085
+Enhanced Ambition,WV,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.30119,4.56351,7.56478,7.83364,5.48293,6.80599,6.050851942,6.803721942
+Enhanced Ambition,WY,resid heating,biomass,wood furnace,1975$/GJ,5.231,5.2048,5.26862,5.27664,5.07287,4.83918,5.132460054,5.157460054
+Enhanced Ambition,WY,resid heating,coal,coal furnace,1975$/GJ,1.17701,1.04455,1.32707,1.46242,1.42582,1.40039,1.399931456,1.410131456
+Enhanced Ambition,WY,resid heating,electricity,electric furnace,1975$/GJ,14.1668,12.2438,12.1592,11.2535,7.50553,6.92037,7.60634,8.02456
+Enhanced Ambition,WY,resid heating,electricity,electric heat pump,1975$/GJ,6.21131,5.36818,5.33109,4.16797,2.77982,2.5631,2.75129,2.90256
+Enhanced Ambition,WY,resid heating,gas,gas furnace,1975$/GJ,2.85811,4.22636,4.23781,3.0031,2.65254,3.03862,2.690349756,2.470119756
+Enhanced Ambition,WY,resid heating,gas,gas furnace hi-eff,1975$/GJ,2.27482,3.36384,3.37295,2.45151,2.16534,2.4805,2.196204495,2.016424495
+Enhanced Ambition,WY,resid heating,refined liquids,fuel furnace,1975$/GJ,4.28884,4.55773,7.63402,7.62371,5.30133,6.60845,5.862403244,6.606213244
+Enhanced Ambition,WY,resid heating,refined liquids,fuel furnace hi-eff,1975$/GJ,3.53719,3.75895,6.2961,6.52338,4.53619,5.65465,5.016288652,5.652738652
+Enhanced Ambition,WY,resid hot water,electricity,electric heat pump water heater,1975$/GJ,7.01257,6.06067,6.0188,4.84391,3.23064,2.97877,3.07358,3.24258
+Enhanced Ambition,WY,resid hot water,electricity,electric resistance water heater,1975$/GJ,15.6881,13.5585,13.4649,12.3789,8.25608,7.6124,8.36697,8.82702
+Enhanced Ambition,WY,resid hot water,electricity,electric resistance water heater hi-eff,1975$/GJ,14.7633,12.7593,12.6712,11.7274,7.74007,7.13663,7.84404,8.27533
+Enhanced Ambition,WY,resid hot water,gas,gas water heater,1975$/GJ,3.77852,5.5874,5.60253,3.87497,3.42263,3.92079,3.471416459,3.187246459
+Enhanced Ambition,WY,resid hot water,gas,gas water heater hi-eff,1975$/GJ,2.71869,4.0202,4.03109,2.92986,2.58784,2.9645,2.624731713,2.409871713
+Enhanced Ambition,WY,resid hot water,refined liquids,fuel water heater,1975$/GJ,5.81538,6.17997,10.3512,10.2059,7.09695,8.84679,7.848057085,8.843797085
+Enhanced Ambition,WY,resid hot water,refined liquids,fuel water heater hi-eff,1975$/GJ,4.18423,4.44656,7.44783,7.71669,5.36598,6.68904,5.933891942,6.686771942
