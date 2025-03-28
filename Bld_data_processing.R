@@ -1,3 +1,5 @@
+library(tidyverse)
+
 en_input = read.csv("bld data/energy_input.csv")
 en_price = read.csv("bld data/energy_price.csv")
 subsidy = read.csv("bld data/IRA_building_subsidy.csv")
