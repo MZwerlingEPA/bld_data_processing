@@ -1,0 +1,881 @@
+"","scenario","subsector","Units","USREP_region","year","value","PercentChangeFromCPOL"
+"1","Current Policies","biomass","Billions 1975$","AK-HI","2020",NA,NA
+"2","Current Policies","biomass","Billions 1975$","AK-HI","2025",NA,NA
+"3","Current Policies","biomass","Billions 1975$","AK-HI","2030",NA,NA
+"4","Current Policies","biomass","Billions 1975$","AK-HI","2035",NA,NA
+"5","Current Policies","biomass","Billions 1975$","Appalachia","2020",NA,NA
+"6","Current Policies","biomass","Billions 1975$","Appalachia","2025",NA,NA
+"7","Current Policies","biomass","Billions 1975$","Appalachia","2030",NA,NA
+"8","Current Policies","biomass","Billions 1975$","Appalachia","2035",NA,NA
+"9","Current Policies","biomass","Billions 1975$","GulfCoast","2020",NA,NA
+"10","Current Policies","biomass","Billions 1975$","GulfCoast","2025",NA,NA
+"11","Current Policies","biomass","Billions 1975$","GulfCoast","2030",NA,NA
+"12","Current Policies","biomass","Billions 1975$","GulfCoast","2035",NA,NA
+"13","Current Policies","biomass","Billions 1975$","MidA","2020",NA,NA
+"14","Current Policies","biomass","Billions 1975$","MidA","2025",NA,NA
+"15","Current Policies","biomass","Billions 1975$","MidA","2030",NA,NA
+"16","Current Policies","biomass","Billions 1975$","MidA","2035",NA,NA
+"17","Current Policies","biomass","Billions 1975$","Midcontinent","2020",NA,NA
+"18","Current Policies","biomass","Billions 1975$","Midcontinent","2025",NA,NA
+"19","Current Policies","biomass","Billions 1975$","Midcontinent","2030",NA,NA
+"20","Current Policies","biomass","Billions 1975$","Midcontinent","2035",NA,NA
+"21","Current Policies","biomass","Billions 1975$","Midwest","2020",NA,NA
+"22","Current Policies","biomass","Billions 1975$","Midwest","2025",NA,NA
+"23","Current Policies","biomass","Billions 1975$","Midwest","2030",NA,NA
+"24","Current Policies","biomass","Billions 1975$","Midwest","2035",NA,NA
+"25","Current Policies","biomass","Billions 1975$","NewEngland","2020",NA,NA
+"26","Current Policies","biomass","Billions 1975$","NewEngland","2025",NA,NA
+"27","Current Policies","biomass","Billions 1975$","NewEngland","2030",NA,NA
+"28","Current Policies","biomass","Billions 1975$","NewEngland","2035",NA,NA
+"29","Current Policies","biomass","Billions 1975$","PacificNorthwest","2020",NA,NA
+"30","Current Policies","biomass","Billions 1975$","PacificNorthwest","2025",NA,NA
+"31","Current Policies","biomass","Billions 1975$","PacificNorthwest","2030",NA,NA
+"32","Current Policies","biomass","Billions 1975$","PacificNorthwest","2035",NA,NA
+"33","Current Policies","biomass","Billions 1975$","RockiesCentral","2020",NA,NA
+"34","Current Policies","biomass","Billions 1975$","RockiesCentral","2025",NA,NA
+"35","Current Policies","biomass","Billions 1975$","RockiesCentral","2030",NA,NA
+"36","Current Policies","biomass","Billions 1975$","RockiesCentral","2035",NA,NA
+"37","Current Policies","biomass","Billions 1975$","SouthAtlantic","2020",NA,NA
+"38","Current Policies","biomass","Billions 1975$","SouthAtlantic","2025",NA,NA
+"39","Current Policies","biomass","Billions 1975$","SouthAtlantic","2030",NA,NA
+"40","Current Policies","biomass","Billions 1975$","SouthAtlantic","2035",NA,NA
+"41","Current Policies","biomass","Billions 1975$","West","2020",NA,NA
+"42","Current Policies","biomass","Billions 1975$","West","2025",NA,NA
+"43","Current Policies","biomass","Billions 1975$","West","2030",NA,NA
+"44","Current Policies","biomass","Billions 1975$","West","2035",NA,NA
+"45","Current Policies","coal","Billions 1975$","AK-HI","2020",NA,NA
+"46","Current Policies","coal","Billions 1975$","AK-HI","2025",NA,NA
+"47","Current Policies","coal","Billions 1975$","AK-HI","2030",NA,NA
+"48","Current Policies","coal","Billions 1975$","AK-HI","2035",NA,NA
+"49","Current Policies","coal","Billions 1975$","Appalachia","2020",NA,NA
+"50","Current Policies","coal","Billions 1975$","Appalachia","2025",NA,NA
+"51","Current Policies","coal","Billions 1975$","Appalachia","2030",NA,NA
+"52","Current Policies","coal","Billions 1975$","Appalachia","2035",NA,NA
+"53","Current Policies","coal","Billions 1975$","GulfCoast","2020",NA,NA
+"54","Current Policies","coal","Billions 1975$","GulfCoast","2025",NA,NA
+"55","Current Policies","coal","Billions 1975$","GulfCoast","2030",NA,NA
+"56","Current Policies","coal","Billions 1975$","GulfCoast","2035",NA,NA
+"57","Current Policies","coal","Billions 1975$","MidA","2020",NA,NA
+"58","Current Policies","coal","Billions 1975$","MidA","2025",NA,NA
+"59","Current Policies","coal","Billions 1975$","MidA","2030",NA,NA
+"60","Current Policies","coal","Billions 1975$","MidA","2035",NA,NA
+"61","Current Policies","coal","Billions 1975$","Midcontinent","2020",NA,NA
+"62","Current Policies","coal","Billions 1975$","Midcontinent","2025",NA,NA
+"63","Current Policies","coal","Billions 1975$","Midcontinent","2030",NA,NA
+"64","Current Policies","coal","Billions 1975$","Midcontinent","2035",NA,NA
+"65","Current Policies","coal","Billions 1975$","Midwest","2020",NA,NA
+"66","Current Policies","coal","Billions 1975$","Midwest","2025",NA,NA
+"67","Current Policies","coal","Billions 1975$","Midwest","2030",NA,NA
+"68","Current Policies","coal","Billions 1975$","Midwest","2035",NA,NA
+"69","Current Policies","coal","Billions 1975$","NewEngland","2020",NA,NA
+"70","Current Policies","coal","Billions 1975$","NewEngland","2025",NA,NA
+"71","Current Policies","coal","Billions 1975$","NewEngland","2030",NA,NA
+"72","Current Policies","coal","Billions 1975$","NewEngland","2035",NA,NA
+"73","Current Policies","coal","Billions 1975$","PacificNorthwest","2020",NA,NA
+"74","Current Policies","coal","Billions 1975$","PacificNorthwest","2025",NA,NA
+"75","Current Policies","coal","Billions 1975$","PacificNorthwest","2030",NA,NA
+"76","Current Policies","coal","Billions 1975$","PacificNorthwest","2035",NA,NA
+"77","Current Policies","coal","Billions 1975$","RockiesCentral","2020",NA,NA
+"78","Current Policies","coal","Billions 1975$","RockiesCentral","2025",NA,NA
+"79","Current Policies","coal","Billions 1975$","RockiesCentral","2030",NA,NA
+"80","Current Policies","coal","Billions 1975$","RockiesCentral","2035",NA,NA
+"81","Current Policies","coal","Billions 1975$","SouthAtlantic","2020",NA,NA
+"82","Current Policies","coal","Billions 1975$","SouthAtlantic","2025",NA,NA
+"83","Current Policies","coal","Billions 1975$","SouthAtlantic","2030",NA,NA
+"84","Current Policies","coal","Billions 1975$","SouthAtlantic","2035",NA,NA
+"85","Current Policies","coal","Billions 1975$","West","2020",NA,NA
+"86","Current Policies","coal","Billions 1975$","West","2025",NA,NA
+"87","Current Policies","coal","Billions 1975$","West","2030",NA,NA
+"88","Current Policies","coal","Billions 1975$","West","2035",NA,NA
+"89","Current Policies","electricity","Billions 1975$","AK-HI","2020",0.0810592921994,0
+"90","Current Policies","electricity","Billions 1975$","AK-HI","2025",0.099061893373917,0
+"91","Current Policies","electricity","Billions 1975$","AK-HI","2030",0.107795653810657,0
+"92","Current Policies","electricity","Billions 1975$","AK-HI","2035",0.128258672313523,0
+"93","Current Policies","electricity","Billions 1975$","Appalachia","2020",1.9819343836588,0
+"94","Current Policies","electricity","Billions 1975$","Appalachia","2025",2.20620505473212,0
+"95","Current Policies","electricity","Billions 1975$","Appalachia","2030",2.4573178556049,0
+"96","Current Policies","electricity","Billions 1975$","Appalachia","2035",2.85953754434809,0
+"97","Current Policies","electricity","Billions 1975$","GulfCoast","2020",1.17728380057821,0
+"98","Current Policies","electricity","Billions 1975$","GulfCoast","2025",1.23699368614778,0
+"99","Current Policies","electricity","Billions 1975$","GulfCoast","2030",1.31624854123916,0
+"100","Current Policies","electricity","Billions 1975$","GulfCoast","2035",1.50145329946253,0
+"101","Current Policies","electricity","Billions 1975$","MidA","2020",1.79149880089165,0
+"102","Current Policies","electricity","Billions 1975$","MidA","2025",1.91278119474257,0
+"103","Current Policies","electricity","Billions 1975$","MidA","2030",2.05453968365279,0
+"104","Current Policies","electricity","Billions 1975$","MidA","2035",2.35983500166257,0
+"105","Current Policies","electricity","Billions 1975$","Midcontinent","2020",1.04231202820651,0
+"106","Current Policies","electricity","Billions 1975$","Midcontinent","2025",1.14694710614288,0
+"107","Current Policies","electricity","Billions 1975$","Midcontinent","2030",1.23860807361453,0
+"108","Current Policies","electricity","Billions 1975$","Midcontinent","2035",1.42115367766423,0
+"109","Current Policies","electricity","Billions 1975$","Midwest","2020",1.39693592395356,0
+"110","Current Policies","electricity","Billions 1975$","Midwest","2025",1.75561627878961,0
+"111","Current Policies","electricity","Billions 1975$","Midwest","2030",2.07497046004436,0
+"112","Current Policies","electricity","Billions 1975$","Midwest","2035",2.44865485580296,0
+"113","Current Policies","electricity","Billions 1975$","NewEngland","2020",0.73414156318768,0
+"114","Current Policies","electricity","Billions 1975$","NewEngland","2025",1.01746099722496,0
+"115","Current Policies","electricity","Billions 1975$","NewEngland","2030",1.2732235141229,0
+"116","Current Policies","electricity","Billions 1975$","NewEngland","2035",1.55890355394601,0
+"117","Current Policies","electricity","Billions 1975$","PacificNorthwest","2020",0.76007414349637,0
+"118","Current Policies","electricity","Billions 1975$","PacificNorthwest","2025",0.76756547623459,0
+"119","Current Policies","electricity","Billions 1975$","PacificNorthwest","2030",0.8001432235025,0
+"120","Current Policies","electricity","Billions 1975$","PacificNorthwest","2035",0.91694774742192,0
+"121","Current Policies","electricity","Billions 1975$","RockiesCentral","2020",0.36541668094018,0
+"122","Current Policies","electricity","Billions 1975$","RockiesCentral","2025",0.43453056280675,0
+"123","Current Policies","electricity","Billions 1975$","RockiesCentral","2030",0.51097218262047,0
+"124","Current Policies","electricity","Billions 1975$","RockiesCentral","2035",0.60586402999153,0
+"125","Current Policies","electricity","Billions 1975$","SouthAtlantic","2020",2.07574481462832,0
+"126","Current Policies","electricity","Billions 1975$","SouthAtlantic","2025",2.16511857444077,0
+"127","Current Policies","electricity","Billions 1975$","SouthAtlantic","2030",2.21015431691914,0
+"128","Current Policies","electricity","Billions 1975$","SouthAtlantic","2035",2.47664447249975,0
+"129","Current Policies","electricity","Billions 1975$","West","2020",0.67425016767543,0
+"130","Current Policies","electricity","Billions 1975$","West","2025",0.79409190454054,0
+"131","Current Policies","electricity","Billions 1975$","West","2030",0.91609211948391,0
+"132","Current Policies","electricity","Billions 1975$","West","2035",1.07643982669954,0
+"133","Current Policies","gas","Billions 1975$","AK-HI","2020",NA,NA
+"134","Current Policies","gas","Billions 1975$","AK-HI","2025",NA,NA
+"135","Current Policies","gas","Billions 1975$","AK-HI","2030",NA,NA
+"136","Current Policies","gas","Billions 1975$","AK-HI","2035",NA,NA
+"137","Current Policies","gas","Billions 1975$","Appalachia","2020",NA,NA
+"138","Current Policies","gas","Billions 1975$","Appalachia","2025",NA,NA
+"139","Current Policies","gas","Billions 1975$","Appalachia","2030",NA,NA
+"140","Current Policies","gas","Billions 1975$","Appalachia","2035",NA,NA
+"141","Current Policies","gas","Billions 1975$","GulfCoast","2020",NA,NA
+"142","Current Policies","gas","Billions 1975$","GulfCoast","2025",NA,NA
+"143","Current Policies","gas","Billions 1975$","GulfCoast","2030",NA,NA
+"144","Current Policies","gas","Billions 1975$","GulfCoast","2035",NA,NA
+"145","Current Policies","gas","Billions 1975$","MidA","2020",NA,NA
+"146","Current Policies","gas","Billions 1975$","MidA","2025",NA,NA
+"147","Current Policies","gas","Billions 1975$","MidA","2030",NA,NA
+"148","Current Policies","gas","Billions 1975$","MidA","2035",NA,NA
+"149","Current Policies","gas","Billions 1975$","Midcontinent","2020",NA,NA
+"150","Current Policies","gas","Billions 1975$","Midcontinent","2025",NA,NA
+"151","Current Policies","gas","Billions 1975$","Midcontinent","2030",NA,NA
+"152","Current Policies","gas","Billions 1975$","Midcontinent","2035",NA,NA
+"153","Current Policies","gas","Billions 1975$","Midwest","2020",NA,NA
+"154","Current Policies","gas","Billions 1975$","Midwest","2025",NA,NA
+"155","Current Policies","gas","Billions 1975$","Midwest","2030",NA,NA
+"156","Current Policies","gas","Billions 1975$","Midwest","2035",NA,NA
+"157","Current Policies","gas","Billions 1975$","NewEngland","2020",NA,NA
+"158","Current Policies","gas","Billions 1975$","NewEngland","2025",NA,NA
+"159","Current Policies","gas","Billions 1975$","NewEngland","2030",NA,NA
+"160","Current Policies","gas","Billions 1975$","NewEngland","2035",NA,NA
+"161","Current Policies","gas","Billions 1975$","PacificNorthwest","2020",NA,NA
+"162","Current Policies","gas","Billions 1975$","PacificNorthwest","2025",NA,NA
+"163","Current Policies","gas","Billions 1975$","PacificNorthwest","2030",NA,NA
+"164","Current Policies","gas","Billions 1975$","PacificNorthwest","2035",NA,NA
+"165","Current Policies","gas","Billions 1975$","RockiesCentral","2020",NA,NA
+"166","Current Policies","gas","Billions 1975$","RockiesCentral","2025",NA,NA
+"167","Current Policies","gas","Billions 1975$","RockiesCentral","2030",NA,NA
+"168","Current Policies","gas","Billions 1975$","RockiesCentral","2035",NA,NA
+"169","Current Policies","gas","Billions 1975$","SouthAtlantic","2020",NA,NA
+"170","Current Policies","gas","Billions 1975$","SouthAtlantic","2025",NA,NA
+"171","Current Policies","gas","Billions 1975$","SouthAtlantic","2030",NA,NA
+"172","Current Policies","gas","Billions 1975$","SouthAtlantic","2035",NA,NA
+"173","Current Policies","gas","Billions 1975$","West","2020",NA,NA
+"174","Current Policies","gas","Billions 1975$","West","2025",NA,NA
+"175","Current Policies","gas","Billions 1975$","West","2030",NA,NA
+"176","Current Policies","gas","Billions 1975$","West","2035",NA,NA
+"177","Current Policies","refined liquids","Billions 1975$","AK-HI","2020",NA,NA
+"178","Current Policies","refined liquids","Billions 1975$","AK-HI","2025",NA,NA
+"179","Current Policies","refined liquids","Billions 1975$","AK-HI","2030",NA,NA
+"180","Current Policies","refined liquids","Billions 1975$","AK-HI","2035",NA,NA
+"181","Current Policies","refined liquids","Billions 1975$","Appalachia","2020",NA,NA
+"182","Current Policies","refined liquids","Billions 1975$","Appalachia","2025",NA,NA
+"183","Current Policies","refined liquids","Billions 1975$","Appalachia","2030",NA,NA
+"184","Current Policies","refined liquids","Billions 1975$","Appalachia","2035",NA,NA
+"185","Current Policies","refined liquids","Billions 1975$","GulfCoast","2020",NA,NA
+"186","Current Policies","refined liquids","Billions 1975$","GulfCoast","2025",NA,NA
+"187","Current Policies","refined liquids","Billions 1975$","GulfCoast","2030",NA,NA
+"188","Current Policies","refined liquids","Billions 1975$","GulfCoast","2035",NA,NA
+"189","Current Policies","refined liquids","Billions 1975$","MidA","2020",NA,NA
+"190","Current Policies","refined liquids","Billions 1975$","MidA","2025",NA,NA
+"191","Current Policies","refined liquids","Billions 1975$","MidA","2030",NA,NA
+"192","Current Policies","refined liquids","Billions 1975$","MidA","2035",NA,NA
+"193","Current Policies","refined liquids","Billions 1975$","Midcontinent","2020",NA,NA
+"194","Current Policies","refined liquids","Billions 1975$","Midcontinent","2025",NA,NA
+"195","Current Policies","refined liquids","Billions 1975$","Midcontinent","2030",NA,NA
+"196","Current Policies","refined liquids","Billions 1975$","Midcontinent","2035",NA,NA
+"197","Current Policies","refined liquids","Billions 1975$","Midwest","2020",NA,NA
+"198","Current Policies","refined liquids","Billions 1975$","Midwest","2025",NA,NA
+"199","Current Policies","refined liquids","Billions 1975$","Midwest","2030",NA,NA
+"200","Current Policies","refined liquids","Billions 1975$","Midwest","2035",NA,NA
+"201","Current Policies","refined liquids","Billions 1975$","NewEngland","2020",NA,NA
+"202","Current Policies","refined liquids","Billions 1975$","NewEngland","2025",NA,NA
+"203","Current Policies","refined liquids","Billions 1975$","NewEngland","2030",NA,NA
+"204","Current Policies","refined liquids","Billions 1975$","NewEngland","2035",NA,NA
+"205","Current Policies","refined liquids","Billions 1975$","PacificNorthwest","2020",NA,NA
+"206","Current Policies","refined liquids","Billions 1975$","PacificNorthwest","2025",NA,NA
+"207","Current Policies","refined liquids","Billions 1975$","PacificNorthwest","2030",NA,NA
+"208","Current Policies","refined liquids","Billions 1975$","PacificNorthwest","2035",NA,NA
+"209","Current Policies","refined liquids","Billions 1975$","RockiesCentral","2020",NA,NA
+"210","Current Policies","refined liquids","Billions 1975$","RockiesCentral","2025",NA,NA
+"211","Current Policies","refined liquids","Billions 1975$","RockiesCentral","2030",NA,NA
+"212","Current Policies","refined liquids","Billions 1975$","RockiesCentral","2035",NA,NA
+"213","Current Policies","refined liquids","Billions 1975$","SouthAtlantic","2020",NA,NA
+"214","Current Policies","refined liquids","Billions 1975$","SouthAtlantic","2025",NA,NA
+"215","Current Policies","refined liquids","Billions 1975$","SouthAtlantic","2030",NA,NA
+"216","Current Policies","refined liquids","Billions 1975$","SouthAtlantic","2035",NA,NA
+"217","Current Policies","refined liquids","Billions 1975$","West","2020",NA,NA
+"218","Current Policies","refined liquids","Billions 1975$","West","2025",NA,NA
+"219","Current Policies","refined liquids","Billions 1975$","West","2030",NA,NA
+"220","Current Policies","refined liquids","Billions 1975$","West","2035",NA,NA
+"221","Enhanced Ambition","biomass","Billions 1975$","AK-HI","2020",NA,NA
+"222","Enhanced Ambition","biomass","Billions 1975$","AK-HI","2025",NA,NA
+"223","Enhanced Ambition","biomass","Billions 1975$","AK-HI","2030",NA,NA
+"224","Enhanced Ambition","biomass","Billions 1975$","AK-HI","2035",NA,NA
+"225","Enhanced Ambition","biomass","Billions 1975$","Appalachia","2020",NA,NA
+"226","Enhanced Ambition","biomass","Billions 1975$","Appalachia","2025",NA,NA
+"227","Enhanced Ambition","biomass","Billions 1975$","Appalachia","2030",NA,NA
+"228","Enhanced Ambition","biomass","Billions 1975$","Appalachia","2035",NA,NA
+"229","Enhanced Ambition","biomass","Billions 1975$","GulfCoast","2020",NA,NA
+"230","Enhanced Ambition","biomass","Billions 1975$","GulfCoast","2025",NA,NA
+"231","Enhanced Ambition","biomass","Billions 1975$","GulfCoast","2030",NA,NA
+"232","Enhanced Ambition","biomass","Billions 1975$","GulfCoast","2035",NA,NA
+"233","Enhanced Ambition","biomass","Billions 1975$","MidA","2020",NA,NA
+"234","Enhanced Ambition","biomass","Billions 1975$","MidA","2025",NA,NA
+"235","Enhanced Ambition","biomass","Billions 1975$","MidA","2030",NA,NA
+"236","Enhanced Ambition","biomass","Billions 1975$","MidA","2035",NA,NA
+"237","Enhanced Ambition","biomass","Billions 1975$","Midcontinent","2020",NA,NA
+"238","Enhanced Ambition","biomass","Billions 1975$","Midcontinent","2025",NA,NA
+"239","Enhanced Ambition","biomass","Billions 1975$","Midcontinent","2030",NA,NA
+"240","Enhanced Ambition","biomass","Billions 1975$","Midcontinent","2035",NA,NA
+"241","Enhanced Ambition","biomass","Billions 1975$","Midwest","2020",NA,NA
+"242","Enhanced Ambition","biomass","Billions 1975$","Midwest","2025",NA,NA
+"243","Enhanced Ambition","biomass","Billions 1975$","Midwest","2030",NA,NA
+"244","Enhanced Ambition","biomass","Billions 1975$","Midwest","2035",NA,NA
+"245","Enhanced Ambition","biomass","Billions 1975$","NewEngland","2020",NA,NA
+"246","Enhanced Ambition","biomass","Billions 1975$","NewEngland","2025",NA,NA
+"247","Enhanced Ambition","biomass","Billions 1975$","NewEngland","2030",NA,NA
+"248","Enhanced Ambition","biomass","Billions 1975$","NewEngland","2035",NA,NA
+"249","Enhanced Ambition","biomass","Billions 1975$","PacificNorthwest","2020",NA,NA
+"250","Enhanced Ambition","biomass","Billions 1975$","PacificNorthwest","2025",NA,NA
+"251","Enhanced Ambition","biomass","Billions 1975$","PacificNorthwest","2030",NA,NA
+"252","Enhanced Ambition","biomass","Billions 1975$","PacificNorthwest","2035",NA,NA
+"253","Enhanced Ambition","biomass","Billions 1975$","RockiesCentral","2020",NA,NA
+"254","Enhanced Ambition","biomass","Billions 1975$","RockiesCentral","2025",NA,NA
+"255","Enhanced Ambition","biomass","Billions 1975$","RockiesCentral","2030",NA,NA
+"256","Enhanced Ambition","biomass","Billions 1975$","RockiesCentral","2035",NA,NA
+"257","Enhanced Ambition","biomass","Billions 1975$","SouthAtlantic","2020",NA,NA
+"258","Enhanced Ambition","biomass","Billions 1975$","SouthAtlantic","2025",NA,NA
+"259","Enhanced Ambition","biomass","Billions 1975$","SouthAtlantic","2030",NA,NA
+"260","Enhanced Ambition","biomass","Billions 1975$","SouthAtlantic","2035",NA,NA
+"261","Enhanced Ambition","biomass","Billions 1975$","West","2020",NA,NA
+"262","Enhanced Ambition","biomass","Billions 1975$","West","2025",NA,NA
+"263","Enhanced Ambition","biomass","Billions 1975$","West","2030",NA,NA
+"264","Enhanced Ambition","biomass","Billions 1975$","West","2035",NA,NA
+"265","Enhanced Ambition","coal","Billions 1975$","AK-HI","2020",NA,NA
+"266","Enhanced Ambition","coal","Billions 1975$","AK-HI","2025",NA,NA
+"267","Enhanced Ambition","coal","Billions 1975$","AK-HI","2030",NA,NA
+"268","Enhanced Ambition","coal","Billions 1975$","AK-HI","2035",NA,NA
+"269","Enhanced Ambition","coal","Billions 1975$","Appalachia","2020",NA,NA
+"270","Enhanced Ambition","coal","Billions 1975$","Appalachia","2025",NA,NA
+"271","Enhanced Ambition","coal","Billions 1975$","Appalachia","2030",NA,NA
+"272","Enhanced Ambition","coal","Billions 1975$","Appalachia","2035",NA,NA
+"273","Enhanced Ambition","coal","Billions 1975$","GulfCoast","2020",NA,NA
+"274","Enhanced Ambition","coal","Billions 1975$","GulfCoast","2025",NA,NA
+"275","Enhanced Ambition","coal","Billions 1975$","GulfCoast","2030",NA,NA
+"276","Enhanced Ambition","coal","Billions 1975$","GulfCoast","2035",NA,NA
+"277","Enhanced Ambition","coal","Billions 1975$","MidA","2020",NA,NA
+"278","Enhanced Ambition","coal","Billions 1975$","MidA","2025",NA,NA
+"279","Enhanced Ambition","coal","Billions 1975$","MidA","2030",NA,NA
+"280","Enhanced Ambition","coal","Billions 1975$","MidA","2035",NA,NA
+"281","Enhanced Ambition","coal","Billions 1975$","Midcontinent","2020",NA,NA
+"282","Enhanced Ambition","coal","Billions 1975$","Midcontinent","2025",NA,NA
+"283","Enhanced Ambition","coal","Billions 1975$","Midcontinent","2030",NA,NA
+"284","Enhanced Ambition","coal","Billions 1975$","Midcontinent","2035",NA,NA
+"285","Enhanced Ambition","coal","Billions 1975$","Midwest","2020",NA,NA
+"286","Enhanced Ambition","coal","Billions 1975$","Midwest","2025",NA,NA
+"287","Enhanced Ambition","coal","Billions 1975$","Midwest","2030",NA,NA
+"288","Enhanced Ambition","coal","Billions 1975$","Midwest","2035",NA,NA
+"289","Enhanced Ambition","coal","Billions 1975$","NewEngland","2020",NA,NA
+"290","Enhanced Ambition","coal","Billions 1975$","NewEngland","2025",NA,NA
+"291","Enhanced Ambition","coal","Billions 1975$","NewEngland","2030",NA,NA
+"292","Enhanced Ambition","coal","Billions 1975$","NewEngland","2035",NA,NA
+"293","Enhanced Ambition","coal","Billions 1975$","PacificNorthwest","2020",NA,NA
+"294","Enhanced Ambition","coal","Billions 1975$","PacificNorthwest","2025",NA,NA
+"295","Enhanced Ambition","coal","Billions 1975$","PacificNorthwest","2030",NA,NA
+"296","Enhanced Ambition","coal","Billions 1975$","PacificNorthwest","2035",NA,NA
+"297","Enhanced Ambition","coal","Billions 1975$","RockiesCentral","2020",NA,NA
+"298","Enhanced Ambition","coal","Billions 1975$","RockiesCentral","2025",NA,NA
+"299","Enhanced Ambition","coal","Billions 1975$","RockiesCentral","2030",NA,NA
+"300","Enhanced Ambition","coal","Billions 1975$","RockiesCentral","2035",NA,NA
+"301","Enhanced Ambition","coal","Billions 1975$","SouthAtlantic","2020",NA,NA
+"302","Enhanced Ambition","coal","Billions 1975$","SouthAtlantic","2025",NA,NA
+"303","Enhanced Ambition","coal","Billions 1975$","SouthAtlantic","2030",NA,NA
+"304","Enhanced Ambition","coal","Billions 1975$","SouthAtlantic","2035",NA,NA
+"305","Enhanced Ambition","coal","Billions 1975$","West","2020",NA,NA
+"306","Enhanced Ambition","coal","Billions 1975$","West","2025",NA,NA
+"307","Enhanced Ambition","coal","Billions 1975$","West","2030",NA,NA
+"308","Enhanced Ambition","coal","Billions 1975$","West","2035",NA,NA
+"309","Enhanced Ambition","electricity","Billions 1975$","AK-HI","2020",0.08173416892443,0.00832571697480233
+"310","Enhanced Ambition","electricity","Billions 1975$","AK-HI","2025",0.099255174151865,0.00195111128371472
+"311","Enhanced Ambition","electricity","Billions 1975$","AK-HI","2030",0.10703372347911,-0.00706828433811757
+"312","Enhanced Ambition","electricity","Billions 1975$","AK-HI","2035",0.121175693098525,-0.0552241738296179
+"313","Enhanced Ambition","electricity","Billions 1975$","Appalachia","2020",2.00490722812063,0.0115911226180054
+"314","Enhanced Ambition","electricity","Billions 1975$","Appalachia","2025",2.21711680744177,0.00494593767983864
+"315","Enhanced Ambition","electricity","Billions 1975$","Appalachia","2030",2.61304922994321,0.0633745341422161
+"316","Enhanced Ambition","electricity","Billions 1975$","Appalachia","2035",2.87977238921264,0.0070762647983218
+"317","Enhanced Ambition","electricity","Billions 1975$","GulfCoast","2020",1.18656884384568,0.00788683515640787
+"318","Enhanced Ambition","electricity","Billions 1975$","GulfCoast","2025",1.24432796024114,0.00592911198779045
+"319","Enhanced Ambition","electricity","Billions 1975$","GulfCoast","2030",1.35130627704757,0.0266345866377222
+"320","Enhanced Ambition","electricity","Billions 1975$","GulfCoast","2035",1.41492591255306,-0.0576290897228999
+"321","Enhanced Ambition","electricity","Billions 1975$","MidA","2020",1.82714646087519,0.0198982326785804
+"322","Enhanced Ambition","electricity","Billions 1975$","MidA","2025",1.9354307408718,0.0118411589320746
+"323","Enhanced Ambition","electricity","Billions 1975$","MidA","2030",2.1201074988573,0.0319136280142012
+"324","Enhanced Ambition","electricity","Billions 1975$","MidA","2035",2.3156694502236,-0.0187155251989458
+"325","Enhanced Ambition","electricity","Billions 1975$","Midcontinent","2020",1.05388126871509,0.0110995941671008
+"326","Enhanced Ambition","electricity","Billions 1975$","Midcontinent","2025",1.15513144756632,0.00713576186696496
+"327","Enhanced Ambition","electricity","Billions 1975$","Midcontinent","2030",1.31541329666179,0.0620093027676831
+"328","Enhanced Ambition","electricity","Billions 1975$","Midcontinent","2035",1.38553348557489,-0.0250642788666491
+"329","Enhanced Ambition","electricity","Billions 1975$","Midwest","2020",1.40927349436017,0.0088318799703373
+"330","Enhanced Ambition","electricity","Billions 1975$","Midwest","2025",1.77010313570663,0.00825172168431254
+"331","Enhanced Ambition","electricity","Billions 1975$","Midwest","2030",2.36322184064325,0.138918305657579
+"332","Enhanced Ambition","electricity","Billions 1975$","Midwest","2035",2.86101619311475,0.168403209760066
+"333","Enhanced Ambition","electricity","Billions 1975$","NewEngland","2020",0.73344838731217,-0.000944199198449125
+"334","Enhanced Ambition","electricity","Billions 1975$","NewEngland","2025",1.01078644131677,-0.00656001156446717
+"335","Enhanced Ambition","electricity","Billions 1975$","NewEngland","2030",1.50444342884994,0.181601982811575
+"336","Enhanced Ambition","electricity","Billions 1975$","NewEngland","2035",2.00824514729143,0.288242073865321
+"337","Enhanced Ambition","electricity","Billions 1975$","PacificNorthwest","2020",0.77132723104743,0.0148052497869424
+"338","Enhanced Ambition","electricity","Billions 1975$","PacificNorthwest","2025",0.77794091130766,0.0135173290023001
+"339","Enhanced Ambition","electricity","Billions 1975$","PacificNorthwest","2030",0.84909400548032,0.0611775248980373
+"340","Enhanced Ambition","electricity","Billions 1975$","PacificNorthwest","2035",0.87543216545712,-0.0452758426873557
+"341","Enhanced Ambition","electricity","Billions 1975$","RockiesCentral","2020",0.36764755294358,0.0061050086647938
+"342","Enhanced Ambition","electricity","Billions 1975$","RockiesCentral","2025",0.43638105018812,0.00425858970521453
+"343","Enhanced Ambition","electricity","Billions 1975$","RockiesCentral","2030",0.57554111512859,0.126364868194947
+"344","Enhanced Ambition","electricity","Billions 1975$","RockiesCentral","2035",0.72124467727586,0.190439837278247
+"345","Enhanced Ambition","electricity","Billions 1975$","SouthAtlantic","2020",2.10348596803593,0.0133644334371501
+"346","Enhanced Ambition","electricity","Billions 1975$","SouthAtlantic","2025",2.19052583184071,0.0117348110629472
+"347","Enhanced Ambition","electricity","Billions 1975$","SouthAtlantic","2030",2.29164625268606,0.0368716044590569
+"348","Enhanced Ambition","electricity","Billions 1975$","SouthAtlantic","2035",2.19877000904115,-0.112197962422169
+"349","Enhanced Ambition","electricity","Billions 1975$","West","2020",0.67793165371902,0.00546011884028497
+"350","Enhanced Ambition","electricity","Billions 1975$","West","2025",0.79597720638184,0.00237416076214858
+"351","Enhanced Ambition","electricity","Billions 1975$","West","2030",1.17938280103976,0.287406338244867
+"352","Enhanced Ambition","electricity","Billions 1975$","West","2035",1.74174617139464,0.618061807258645
+"353","Enhanced Ambition","gas","Billions 1975$","AK-HI","2020",NA,NA
+"354","Enhanced Ambition","gas","Billions 1975$","AK-HI","2025",NA,NA
+"355","Enhanced Ambition","gas","Billions 1975$","AK-HI","2030",NA,NA
+"356","Enhanced Ambition","gas","Billions 1975$","AK-HI","2035",NA,NA
+"357","Enhanced Ambition","gas","Billions 1975$","Appalachia","2020",NA,NA
+"358","Enhanced Ambition","gas","Billions 1975$","Appalachia","2025",NA,NA
+"359","Enhanced Ambition","gas","Billions 1975$","Appalachia","2030",NA,NA
+"360","Enhanced Ambition","gas","Billions 1975$","Appalachia","2035",NA,NA
+"361","Enhanced Ambition","gas","Billions 1975$","GulfCoast","2020",NA,NA
+"362","Enhanced Ambition","gas","Billions 1975$","GulfCoast","2025",NA,NA
+"363","Enhanced Ambition","gas","Billions 1975$","GulfCoast","2030",NA,NA
+"364","Enhanced Ambition","gas","Billions 1975$","GulfCoast","2035",NA,NA
+"365","Enhanced Ambition","gas","Billions 1975$","MidA","2020",NA,NA
+"366","Enhanced Ambition","gas","Billions 1975$","MidA","2025",NA,NA
+"367","Enhanced Ambition","gas","Billions 1975$","MidA","2030",NA,NA
+"368","Enhanced Ambition","gas","Billions 1975$","MidA","2035",NA,NA
+"369","Enhanced Ambition","gas","Billions 1975$","Midcontinent","2020",NA,NA
+"370","Enhanced Ambition","gas","Billions 1975$","Midcontinent","2025",NA,NA
+"371","Enhanced Ambition","gas","Billions 1975$","Midcontinent","2030",NA,NA
+"372","Enhanced Ambition","gas","Billions 1975$","Midcontinent","2035",NA,NA
+"373","Enhanced Ambition","gas","Billions 1975$","Midwest","2020",NA,NA
+"374","Enhanced Ambition","gas","Billions 1975$","Midwest","2025",NA,NA
+"375","Enhanced Ambition","gas","Billions 1975$","Midwest","2030",NA,NA
+"376","Enhanced Ambition","gas","Billions 1975$","Midwest","2035",NA,NA
+"377","Enhanced Ambition","gas","Billions 1975$","NewEngland","2020",NA,NA
+"378","Enhanced Ambition","gas","Billions 1975$","NewEngland","2025",NA,NA
+"379","Enhanced Ambition","gas","Billions 1975$","NewEngland","2030",NA,NA
+"380","Enhanced Ambition","gas","Billions 1975$","NewEngland","2035",NA,NA
+"381","Enhanced Ambition","gas","Billions 1975$","PacificNorthwest","2020",NA,NA
+"382","Enhanced Ambition","gas","Billions 1975$","PacificNorthwest","2025",NA,NA
+"383","Enhanced Ambition","gas","Billions 1975$","PacificNorthwest","2030",NA,NA
+"384","Enhanced Ambition","gas","Billions 1975$","PacificNorthwest","2035",NA,NA
+"385","Enhanced Ambition","gas","Billions 1975$","RockiesCentral","2020",NA,NA
+"386","Enhanced Ambition","gas","Billions 1975$","RockiesCentral","2025",NA,NA
+"387","Enhanced Ambition","gas","Billions 1975$","RockiesCentral","2030",NA,NA
+"388","Enhanced Ambition","gas","Billions 1975$","RockiesCentral","2035",NA,NA
+"389","Enhanced Ambition","gas","Billions 1975$","SouthAtlantic","2020",NA,NA
+"390","Enhanced Ambition","gas","Billions 1975$","SouthAtlantic","2025",NA,NA
+"391","Enhanced Ambition","gas","Billions 1975$","SouthAtlantic","2030",NA,NA
+"392","Enhanced Ambition","gas","Billions 1975$","SouthAtlantic","2035",NA,NA
+"393","Enhanced Ambition","gas","Billions 1975$","West","2020",NA,NA
+"394","Enhanced Ambition","gas","Billions 1975$","West","2025",NA,NA
+"395","Enhanced Ambition","gas","Billions 1975$","West","2030",NA,NA
+"396","Enhanced Ambition","gas","Billions 1975$","West","2035",NA,NA
+"397","Enhanced Ambition","refined liquids","Billions 1975$","AK-HI","2020",NA,NA
+"398","Enhanced Ambition","refined liquids","Billions 1975$","AK-HI","2025",NA,NA
+"399","Enhanced Ambition","refined liquids","Billions 1975$","AK-HI","2030",NA,NA
+"400","Enhanced Ambition","refined liquids","Billions 1975$","AK-HI","2035",NA,NA
+"401","Enhanced Ambition","refined liquids","Billions 1975$","Appalachia","2020",NA,NA
+"402","Enhanced Ambition","refined liquids","Billions 1975$","Appalachia","2025",NA,NA
+"403","Enhanced Ambition","refined liquids","Billions 1975$","Appalachia","2030",NA,NA
+"404","Enhanced Ambition","refined liquids","Billions 1975$","Appalachia","2035",NA,NA
+"405","Enhanced Ambition","refined liquids","Billions 1975$","GulfCoast","2020",NA,NA
+"406","Enhanced Ambition","refined liquids","Billions 1975$","GulfCoast","2025",NA,NA
+"407","Enhanced Ambition","refined liquids","Billions 1975$","GulfCoast","2030",NA,NA
+"408","Enhanced Ambition","refined liquids","Billions 1975$","GulfCoast","2035",NA,NA
+"409","Enhanced Ambition","refined liquids","Billions 1975$","MidA","2020",NA,NA
+"410","Enhanced Ambition","refined liquids","Billions 1975$","MidA","2025",NA,NA
+"411","Enhanced Ambition","refined liquids","Billions 1975$","MidA","2030",NA,NA
+"412","Enhanced Ambition","refined liquids","Billions 1975$","MidA","2035",NA,NA
+"413","Enhanced Ambition","refined liquids","Billions 1975$","Midcontinent","2020",NA,NA
+"414","Enhanced Ambition","refined liquids","Billions 1975$","Midcontinent","2025",NA,NA
+"415","Enhanced Ambition","refined liquids","Billions 1975$","Midcontinent","2030",NA,NA
+"416","Enhanced Ambition","refined liquids","Billions 1975$","Midcontinent","2035",NA,NA
+"417","Enhanced Ambition","refined liquids","Billions 1975$","Midwest","2020",NA,NA
+"418","Enhanced Ambition","refined liquids","Billions 1975$","Midwest","2025",NA,NA
+"419","Enhanced Ambition","refined liquids","Billions 1975$","Midwest","2030",NA,NA
+"420","Enhanced Ambition","refined liquids","Billions 1975$","Midwest","2035",NA,NA
+"421","Enhanced Ambition","refined liquids","Billions 1975$","NewEngland","2020",NA,NA
+"422","Enhanced Ambition","refined liquids","Billions 1975$","NewEngland","2025",NA,NA
+"423","Enhanced Ambition","refined liquids","Billions 1975$","NewEngland","2030",NA,NA
+"424","Enhanced Ambition","refined liquids","Billions 1975$","NewEngland","2035",NA,NA
+"425","Enhanced Ambition","refined liquids","Billions 1975$","PacificNorthwest","2020",NA,NA
+"426","Enhanced Ambition","refined liquids","Billions 1975$","PacificNorthwest","2025",NA,NA
+"427","Enhanced Ambition","refined liquids","Billions 1975$","PacificNorthwest","2030",NA,NA
+"428","Enhanced Ambition","refined liquids","Billions 1975$","PacificNorthwest","2035",NA,NA
+"429","Enhanced Ambition","refined liquids","Billions 1975$","RockiesCentral","2020",NA,NA
+"430","Enhanced Ambition","refined liquids","Billions 1975$","RockiesCentral","2025",NA,NA
+"431","Enhanced Ambition","refined liquids","Billions 1975$","RockiesCentral","2030",NA,NA
+"432","Enhanced Ambition","refined liquids","Billions 1975$","RockiesCentral","2035",NA,NA
+"433","Enhanced Ambition","refined liquids","Billions 1975$","SouthAtlantic","2020",NA,NA
+"434","Enhanced Ambition","refined liquids","Billions 1975$","SouthAtlantic","2025",NA,NA
+"435","Enhanced Ambition","refined liquids","Billions 1975$","SouthAtlantic","2030",NA,NA
+"436","Enhanced Ambition","refined liquids","Billions 1975$","SouthAtlantic","2035",NA,NA
+"437","Enhanced Ambition","refined liquids","Billions 1975$","West","2020",NA,NA
+"438","Enhanced Ambition","refined liquids","Billions 1975$","West","2025",NA,NA
+"439","Enhanced Ambition","refined liquids","Billions 1975$","West","2030",NA,NA
+"440","Enhanced Ambition","refined liquids","Billions 1975$","West","2035",NA,NA
+"441","ExecRollback","biomass","Billions 1975$","AK-HI","2020",NA,NA
+"442","ExecRollback","biomass","Billions 1975$","AK-HI","2025",NA,NA
+"443","ExecRollback","biomass","Billions 1975$","AK-HI","2030",NA,NA
+"444","ExecRollback","biomass","Billions 1975$","AK-HI","2035",NA,NA
+"445","ExecRollback","biomass","Billions 1975$","Appalachia","2020",NA,NA
+"446","ExecRollback","biomass","Billions 1975$","Appalachia","2025",NA,NA
+"447","ExecRollback","biomass","Billions 1975$","Appalachia","2030",NA,NA
+"448","ExecRollback","biomass","Billions 1975$","Appalachia","2035",NA,NA
+"449","ExecRollback","biomass","Billions 1975$","GulfCoast","2020",NA,NA
+"450","ExecRollback","biomass","Billions 1975$","GulfCoast","2025",NA,NA
+"451","ExecRollback","biomass","Billions 1975$","GulfCoast","2030",NA,NA
+"452","ExecRollback","biomass","Billions 1975$","GulfCoast","2035",NA,NA
+"453","ExecRollback","biomass","Billions 1975$","MidA","2020",NA,NA
+"454","ExecRollback","biomass","Billions 1975$","MidA","2025",NA,NA
+"455","ExecRollback","biomass","Billions 1975$","MidA","2030",NA,NA
+"456","ExecRollback","biomass","Billions 1975$","MidA","2035",NA,NA
+"457","ExecRollback","biomass","Billions 1975$","Midcontinent","2020",NA,NA
+"458","ExecRollback","biomass","Billions 1975$","Midcontinent","2025",NA,NA
+"459","ExecRollback","biomass","Billions 1975$","Midcontinent","2030",NA,NA
+"460","ExecRollback","biomass","Billions 1975$","Midcontinent","2035",NA,NA
+"461","ExecRollback","biomass","Billions 1975$","Midwest","2020",NA,NA
+"462","ExecRollback","biomass","Billions 1975$","Midwest","2025",NA,NA
+"463","ExecRollback","biomass","Billions 1975$","Midwest","2030",NA,NA
+"464","ExecRollback","biomass","Billions 1975$","Midwest","2035",NA,NA
+"465","ExecRollback","biomass","Billions 1975$","NewEngland","2020",NA,NA
+"466","ExecRollback","biomass","Billions 1975$","NewEngland","2025",NA,NA
+"467","ExecRollback","biomass","Billions 1975$","NewEngland","2030",NA,NA
+"468","ExecRollback","biomass","Billions 1975$","NewEngland","2035",NA,NA
+"469","ExecRollback","biomass","Billions 1975$","PacificNorthwest","2020",NA,NA
+"470","ExecRollback","biomass","Billions 1975$","PacificNorthwest","2025",NA,NA
+"471","ExecRollback","biomass","Billions 1975$","PacificNorthwest","2030",NA,NA
+"472","ExecRollback","biomass","Billions 1975$","PacificNorthwest","2035",NA,NA
+"473","ExecRollback","biomass","Billions 1975$","RockiesCentral","2020",NA,NA
+"474","ExecRollback","biomass","Billions 1975$","RockiesCentral","2025",NA,NA
+"475","ExecRollback","biomass","Billions 1975$","RockiesCentral","2030",NA,NA
+"476","ExecRollback","biomass","Billions 1975$","RockiesCentral","2035",NA,NA
+"477","ExecRollback","biomass","Billions 1975$","SouthAtlantic","2020",NA,NA
+"478","ExecRollback","biomass","Billions 1975$","SouthAtlantic","2025",NA,NA
+"479","ExecRollback","biomass","Billions 1975$","SouthAtlantic","2030",NA,NA
+"480","ExecRollback","biomass","Billions 1975$","SouthAtlantic","2035",NA,NA
+"481","ExecRollback","biomass","Billions 1975$","West","2020",NA,NA
+"482","ExecRollback","biomass","Billions 1975$","West","2025",NA,NA
+"483","ExecRollback","biomass","Billions 1975$","West","2030",NA,NA
+"484","ExecRollback","biomass","Billions 1975$","West","2035",NA,NA
+"485","ExecRollback","coal","Billions 1975$","AK-HI","2020",NA,NA
+"486","ExecRollback","coal","Billions 1975$","AK-HI","2025",NA,NA
+"487","ExecRollback","coal","Billions 1975$","AK-HI","2030",NA,NA
+"488","ExecRollback","coal","Billions 1975$","AK-HI","2035",NA,NA
+"489","ExecRollback","coal","Billions 1975$","Appalachia","2020",NA,NA
+"490","ExecRollback","coal","Billions 1975$","Appalachia","2025",NA,NA
+"491","ExecRollback","coal","Billions 1975$","Appalachia","2030",NA,NA
+"492","ExecRollback","coal","Billions 1975$","Appalachia","2035",NA,NA
+"493","ExecRollback","coal","Billions 1975$","GulfCoast","2020",NA,NA
+"494","ExecRollback","coal","Billions 1975$","GulfCoast","2025",NA,NA
+"495","ExecRollback","coal","Billions 1975$","GulfCoast","2030",NA,NA
+"496","ExecRollback","coal","Billions 1975$","GulfCoast","2035",NA,NA
+"497","ExecRollback","coal","Billions 1975$","MidA","2020",NA,NA
+"498","ExecRollback","coal","Billions 1975$","MidA","2025",NA,NA
+"499","ExecRollback","coal","Billions 1975$","MidA","2030",NA,NA
+"500","ExecRollback","coal","Billions 1975$","MidA","2035",NA,NA
+"501","ExecRollback","coal","Billions 1975$","Midcontinent","2020",NA,NA
+"502","ExecRollback","coal","Billions 1975$","Midcontinent","2025",NA,NA
+"503","ExecRollback","coal","Billions 1975$","Midcontinent","2030",NA,NA
+"504","ExecRollback","coal","Billions 1975$","Midcontinent","2035",NA,NA
+"505","ExecRollback","coal","Billions 1975$","Midwest","2020",NA,NA
+"506","ExecRollback","coal","Billions 1975$","Midwest","2025",NA,NA
+"507","ExecRollback","coal","Billions 1975$","Midwest","2030",NA,NA
+"508","ExecRollback","coal","Billions 1975$","Midwest","2035",NA,NA
+"509","ExecRollback","coal","Billions 1975$","NewEngland","2020",NA,NA
+"510","ExecRollback","coal","Billions 1975$","NewEngland","2025",NA,NA
+"511","ExecRollback","coal","Billions 1975$","NewEngland","2030",NA,NA
+"512","ExecRollback","coal","Billions 1975$","NewEngland","2035",NA,NA
+"513","ExecRollback","coal","Billions 1975$","PacificNorthwest","2020",NA,NA
+"514","ExecRollback","coal","Billions 1975$","PacificNorthwest","2025",NA,NA
+"515","ExecRollback","coal","Billions 1975$","PacificNorthwest","2030",NA,NA
+"516","ExecRollback","coal","Billions 1975$","PacificNorthwest","2035",NA,NA
+"517","ExecRollback","coal","Billions 1975$","RockiesCentral","2020",NA,NA
+"518","ExecRollback","coal","Billions 1975$","RockiesCentral","2025",NA,NA
+"519","ExecRollback","coal","Billions 1975$","RockiesCentral","2030",NA,NA
+"520","ExecRollback","coal","Billions 1975$","RockiesCentral","2035",NA,NA
+"521","ExecRollback","coal","Billions 1975$","SouthAtlantic","2020",NA,NA
+"522","ExecRollback","coal","Billions 1975$","SouthAtlantic","2025",NA,NA
+"523","ExecRollback","coal","Billions 1975$","SouthAtlantic","2030",NA,NA
+"524","ExecRollback","coal","Billions 1975$","SouthAtlantic","2035",NA,NA
+"525","ExecRollback","coal","Billions 1975$","West","2020",NA,NA
+"526","ExecRollback","coal","Billions 1975$","West","2025",NA,NA
+"527","ExecRollback","coal","Billions 1975$","West","2030",NA,NA
+"528","ExecRollback","coal","Billions 1975$","West","2035",NA,NA
+"529","ExecRollback","electricity","Billions 1975$","AK-HI","2020",0.08105924611598,-5.68514956666988e-07
+"530","ExecRollback","electricity","Billions 1975$","AK-HI","2025",0.09891620829443,-0.00147064703212474
+"531","ExecRollback","electricity","Billions 1975$","AK-HI","2030",0.108780132155264,0.0091328203856551
+"532","ExecRollback","electricity","Billions 1975$","AK-HI","2035",0.127291215941673,-0.00754300940746599
+"533","ExecRollback","electricity","Billions 1975$","Appalachia","2020",1.98192930141645,-2.56428385925211e-06
+"534","ExecRollback","electricity","Billions 1975$","Appalachia","2025",2.21027473175681,0.00184465039455906
+"535","ExecRollback","electricity","Billions 1975$","Appalachia","2030",2.49992557327289,0.0173391153166473
+"536","ExecRollback","electricity","Billions 1975$","Appalachia","2035",2.77414584036518,-0.0298620677849422
+"537","ExecRollback","electricity","Billions 1975$","GulfCoast","2020",1.17728409115862,2.4682273713772e-07
+"538","ExecRollback","electricity","Billions 1975$","GulfCoast","2025",1.23575464217465,-0.00100165747570513
+"539","ExecRollback","electricity","Billions 1975$","GulfCoast","2030",1.33388948292762,0.0134024396880639
+"540","ExecRollback","electricity","Billions 1975$","GulfCoast","2035",1.4598248540492,-0.0277254347026521
+"541","ExecRollback","electricity","Billions 1975$","MidA","2020",1.79149190365114,-3.84998332503272e-06
+"542","ExecRollback","electricity","Billions 1975$","MidA","2025",1.9176184714985,0.00252892320837628
+"543","ExecRollback","electricity","Billions 1975$","MidA","2030",2.08570885266826,0.0151708770891463
+"544","ExecRollback","electricity","Billions 1975$","MidA","2035",2.3180838975791,-0.0176923827530548
+"545","ExecRollback","electricity","Billions 1975$","Midcontinent","2020",1.04231253756373,4.88680170995792e-07
+"546","ExecRollback","electricity","Billions 1975$","Midcontinent","2025",1.14693779053511,-8.12209012968079e-06
+"547","ExecRollback","electricity","Billions 1975$","Midcontinent","2030",1.2521730493729,0.0109517901968654
+"548","ExecRollback","electricity","Billions 1975$","Midcontinent","2035",1.36809014830588,-0.0373383471417137
+"549","ExecRollback","electricity","Billions 1975$","Midwest","2020",1.39693726302825,9.58579894350109e-07
+"550","ExecRollback","electricity","Billions 1975$","Midwest","2025",1.75671552517752,0.000626131348399062
+"551","ExecRollback","electricity","Billions 1975$","Midwest","2030",2.10461486539637,0.0142866637973134
+"552","ExecRollback","electricity","Billions 1975$","Midwest","2035",2.35266201641409,-0.0392022743268128
+"553","ExecRollback","electricity","Billions 1975$","NewEngland","2020",0.73414446876963,3.95779519335449e-06
+"554","ExecRollback","electricity","Billions 1975$","NewEngland","2025",1.01891494272622,0.00142899384372042
+"555","ExecRollback","electricity","Billions 1975$","NewEngland","2030",1.2875156230533,0.0112251374341334
+"556","ExecRollback","electricity","Billions 1975$","NewEngland","2035",1.52706039947378,-0.0204266353692172
+"557","ExecRollback","electricity","Billions 1975$","PacificNorthwest","2020",0.76007504536023,1.18654721736888e-06
+"558","ExecRollback","electricity","Billions 1975$","PacificNorthwest","2025",0.7674582833056,-0.000139653140101892
+"559","ExecRollback","electricity","Billions 1975$","PacificNorthwest","2030",0.80947101967657,0.0116576581542978
+"560","ExecRollback","electricity","Billions 1975$","PacificNorthwest","2035",0.9062326051035,-0.011685662949221
+"561","ExecRollback","electricity","Billions 1975$","RockiesCentral","2020",0.36541678210335,2.76843327817744e-07
+"562","ExecRollback","electricity","Billions 1975$","RockiesCentral","2025",0.43447640042998,-0.000124645724388417
+"563","ExecRollback","electricity","Billions 1975$","RockiesCentral","2030",0.51713726469922,0.0120653966858491
+"564","ExecRollback","electricity","Billions 1975$","RockiesCentral","2035",0.596279356576515,-0.0158198423087587
+"565","ExecRollback","electricity","Billions 1975$","SouthAtlantic","2020",2.0757489856814,2.00942478589816e-06
+"566","ExecRollback","electricity","Billions 1975$","SouthAtlantic","2025",2.16983368224206,0.00217775961878086
+"567","ExecRollback","electricity","Billions 1975$","SouthAtlantic","2030",2.24066170006597,0.0138032819307188
+"568","ExecRollback","electricity","Billions 1975$","SouthAtlantic","2035",2.41297352567869,-0.0257085534593487
+"569","ExecRollback","electricity","Billions 1975$","West","2020",0.67425074817008,8.60948469627587e-07
+"570","ExecRollback","electricity","Billions 1975$","West","2025",0.7942319106428,0.000176309695967714
+"571","ExecRollback","electricity","Billions 1975$","West","2030",0.92677394835357,0.0116602125948619
+"572","ExecRollback","electricity","Billions 1975$","West","2035",1.0575894427861,-0.017511786024526
+"573","ExecRollback","gas","Billions 1975$","AK-HI","2020",NA,NA
+"574","ExecRollback","gas","Billions 1975$","AK-HI","2025",NA,NA
+"575","ExecRollback","gas","Billions 1975$","AK-HI","2030",NA,NA
+"576","ExecRollback","gas","Billions 1975$","AK-HI","2035",NA,NA
+"577","ExecRollback","gas","Billions 1975$","Appalachia","2020",NA,NA
+"578","ExecRollback","gas","Billions 1975$","Appalachia","2025",NA,NA
+"579","ExecRollback","gas","Billions 1975$","Appalachia","2030",NA,NA
+"580","ExecRollback","gas","Billions 1975$","Appalachia","2035",NA,NA
+"581","ExecRollback","gas","Billions 1975$","GulfCoast","2020",NA,NA
+"582","ExecRollback","gas","Billions 1975$","GulfCoast","2025",NA,NA
+"583","ExecRollback","gas","Billions 1975$","GulfCoast","2030",NA,NA
+"584","ExecRollback","gas","Billions 1975$","GulfCoast","2035",NA,NA
+"585","ExecRollback","gas","Billions 1975$","MidA","2020",NA,NA
+"586","ExecRollback","gas","Billions 1975$","MidA","2025",NA,NA
+"587","ExecRollback","gas","Billions 1975$","MidA","2030",NA,NA
+"588","ExecRollback","gas","Billions 1975$","MidA","2035",NA,NA
+"589","ExecRollback","gas","Billions 1975$","Midcontinent","2020",NA,NA
+"590","ExecRollback","gas","Billions 1975$","Midcontinent","2025",NA,NA
+"591","ExecRollback","gas","Billions 1975$","Midcontinent","2030",NA,NA
+"592","ExecRollback","gas","Billions 1975$","Midcontinent","2035",NA,NA
+"593","ExecRollback","gas","Billions 1975$","Midwest","2020",NA,NA
+"594","ExecRollback","gas","Billions 1975$","Midwest","2025",NA,NA
+"595","ExecRollback","gas","Billions 1975$","Midwest","2030",NA,NA
+"596","ExecRollback","gas","Billions 1975$","Midwest","2035",NA,NA
+"597","ExecRollback","gas","Billions 1975$","NewEngland","2020",NA,NA
+"598","ExecRollback","gas","Billions 1975$","NewEngland","2025",NA,NA
+"599","ExecRollback","gas","Billions 1975$","NewEngland","2030",NA,NA
+"600","ExecRollback","gas","Billions 1975$","NewEngland","2035",NA,NA
+"601","ExecRollback","gas","Billions 1975$","PacificNorthwest","2020",NA,NA
+"602","ExecRollback","gas","Billions 1975$","PacificNorthwest","2025",NA,NA
+"603","ExecRollback","gas","Billions 1975$","PacificNorthwest","2030",NA,NA
+"604","ExecRollback","gas","Billions 1975$","PacificNorthwest","2035",NA,NA
+"605","ExecRollback","gas","Billions 1975$","RockiesCentral","2020",NA,NA
+"606","ExecRollback","gas","Billions 1975$","RockiesCentral","2025",NA,NA
+"607","ExecRollback","gas","Billions 1975$","RockiesCentral","2030",NA,NA
+"608","ExecRollback","gas","Billions 1975$","RockiesCentral","2035",NA,NA
+"609","ExecRollback","gas","Billions 1975$","SouthAtlantic","2020",NA,NA
+"610","ExecRollback","gas","Billions 1975$","SouthAtlantic","2025",NA,NA
+"611","ExecRollback","gas","Billions 1975$","SouthAtlantic","2030",NA,NA
+"612","ExecRollback","gas","Billions 1975$","SouthAtlantic","2035",NA,NA
+"613","ExecRollback","gas","Billions 1975$","West","2020",NA,NA
+"614","ExecRollback","gas","Billions 1975$","West","2025",NA,NA
+"615","ExecRollback","gas","Billions 1975$","West","2030",NA,NA
+"616","ExecRollback","gas","Billions 1975$","West","2035",NA,NA
+"617","ExecRollback","refined liquids","Billions 1975$","AK-HI","2020",NA,NA
+"618","ExecRollback","refined liquids","Billions 1975$","AK-HI","2025",NA,NA
+"619","ExecRollback","refined liquids","Billions 1975$","AK-HI","2030",NA,NA
+"620","ExecRollback","refined liquids","Billions 1975$","AK-HI","2035",NA,NA
+"621","ExecRollback","refined liquids","Billions 1975$","Appalachia","2020",NA,NA
+"622","ExecRollback","refined liquids","Billions 1975$","Appalachia","2025",NA,NA
+"623","ExecRollback","refined liquids","Billions 1975$","Appalachia","2030",NA,NA
+"624","ExecRollback","refined liquids","Billions 1975$","Appalachia","2035",NA,NA
+"625","ExecRollback","refined liquids","Billions 1975$","GulfCoast","2020",NA,NA
+"626","ExecRollback","refined liquids","Billions 1975$","GulfCoast","2025",NA,NA
+"627","ExecRollback","refined liquids","Billions 1975$","GulfCoast","2030",NA,NA
+"628","ExecRollback","refined liquids","Billions 1975$","GulfCoast","2035",NA,NA
+"629","ExecRollback","refined liquids","Billions 1975$","MidA","2020",NA,NA
+"630","ExecRollback","refined liquids","Billions 1975$","MidA","2025",NA,NA
+"631","ExecRollback","refined liquids","Billions 1975$","MidA","2030",NA,NA
+"632","ExecRollback","refined liquids","Billions 1975$","MidA","2035",NA,NA
+"633","ExecRollback","refined liquids","Billions 1975$","Midcontinent","2020",NA,NA
+"634","ExecRollback","refined liquids","Billions 1975$","Midcontinent","2025",NA,NA
+"635","ExecRollback","refined liquids","Billions 1975$","Midcontinent","2030",NA,NA
+"636","ExecRollback","refined liquids","Billions 1975$","Midcontinent","2035",NA,NA
+"637","ExecRollback","refined liquids","Billions 1975$","Midwest","2020",NA,NA
+"638","ExecRollback","refined liquids","Billions 1975$","Midwest","2025",NA,NA
+"639","ExecRollback","refined liquids","Billions 1975$","Midwest","2030",NA,NA
+"640","ExecRollback","refined liquids","Billions 1975$","Midwest","2035",NA,NA
+"641","ExecRollback","refined liquids","Billions 1975$","NewEngland","2020",NA,NA
+"642","ExecRollback","refined liquids","Billions 1975$","NewEngland","2025",NA,NA
+"643","ExecRollback","refined liquids","Billions 1975$","NewEngland","2030",NA,NA
+"644","ExecRollback","refined liquids","Billions 1975$","NewEngland","2035",NA,NA
+"645","ExecRollback","refined liquids","Billions 1975$","PacificNorthwest","2020",NA,NA
+"646","ExecRollback","refined liquids","Billions 1975$","PacificNorthwest","2025",NA,NA
+"647","ExecRollback","refined liquids","Billions 1975$","PacificNorthwest","2030",NA,NA
+"648","ExecRollback","refined liquids","Billions 1975$","PacificNorthwest","2035",NA,NA
+"649","ExecRollback","refined liquids","Billions 1975$","RockiesCentral","2020",NA,NA
+"650","ExecRollback","refined liquids","Billions 1975$","RockiesCentral","2025",NA,NA
+"651","ExecRollback","refined liquids","Billions 1975$","RockiesCentral","2030",NA,NA
+"652","ExecRollback","refined liquids","Billions 1975$","RockiesCentral","2035",NA,NA
+"653","ExecRollback","refined liquids","Billions 1975$","SouthAtlantic","2020",NA,NA
+"654","ExecRollback","refined liquids","Billions 1975$","SouthAtlantic","2025",NA,NA
+"655","ExecRollback","refined liquids","Billions 1975$","SouthAtlantic","2030",NA,NA
+"656","ExecRollback","refined liquids","Billions 1975$","SouthAtlantic","2035",NA,NA
+"657","ExecRollback","refined liquids","Billions 1975$","West","2020",NA,NA
+"658","ExecRollback","refined liquids","Billions 1975$","West","2025",NA,NA
+"659","ExecRollback","refined liquids","Billions 1975$","West","2030",NA,NA
+"660","ExecRollback","refined liquids","Billions 1975$","West","2035",NA,NA
+"661","FedRollback","biomass","Billions 1975$","AK-HI","2020",NA,NA
+"662","FedRollback","biomass","Billions 1975$","AK-HI","2025",NA,NA
+"663","FedRollback","biomass","Billions 1975$","AK-HI","2030",NA,NA
+"664","FedRollback","biomass","Billions 1975$","AK-HI","2035",NA,NA
+"665","FedRollback","biomass","Billions 1975$","Appalachia","2020",NA,NA
+"666","FedRollback","biomass","Billions 1975$","Appalachia","2025",NA,NA
+"667","FedRollback","biomass","Billions 1975$","Appalachia","2030",NA,NA
+"668","FedRollback","biomass","Billions 1975$","Appalachia","2035",NA,NA
+"669","FedRollback","biomass","Billions 1975$","GulfCoast","2020",NA,NA
+"670","FedRollback","biomass","Billions 1975$","GulfCoast","2025",NA,NA
+"671","FedRollback","biomass","Billions 1975$","GulfCoast","2030",NA,NA
+"672","FedRollback","biomass","Billions 1975$","GulfCoast","2035",NA,NA
+"673","FedRollback","biomass","Billions 1975$","MidA","2020",NA,NA
+"674","FedRollback","biomass","Billions 1975$","MidA","2025",NA,NA
+"675","FedRollback","biomass","Billions 1975$","MidA","2030",NA,NA
+"676","FedRollback","biomass","Billions 1975$","MidA","2035",NA,NA
+"677","FedRollback","biomass","Billions 1975$","Midcontinent","2020",NA,NA
+"678","FedRollback","biomass","Billions 1975$","Midcontinent","2025",NA,NA
+"679","FedRollback","biomass","Billions 1975$","Midcontinent","2030",NA,NA
+"680","FedRollback","biomass","Billions 1975$","Midcontinent","2035",NA,NA
+"681","FedRollback","biomass","Billions 1975$","Midwest","2020",NA,NA
+"682","FedRollback","biomass","Billions 1975$","Midwest","2025",NA,NA
+"683","FedRollback","biomass","Billions 1975$","Midwest","2030",NA,NA
+"684","FedRollback","biomass","Billions 1975$","Midwest","2035",NA,NA
+"685","FedRollback","biomass","Billions 1975$","NewEngland","2020",NA,NA
+"686","FedRollback","biomass","Billions 1975$","NewEngland","2025",NA,NA
+"687","FedRollback","biomass","Billions 1975$","NewEngland","2030",NA,NA
+"688","FedRollback","biomass","Billions 1975$","NewEngland","2035",NA,NA
+"689","FedRollback","biomass","Billions 1975$","PacificNorthwest","2020",NA,NA
+"690","FedRollback","biomass","Billions 1975$","PacificNorthwest","2025",NA,NA
+"691","FedRollback","biomass","Billions 1975$","PacificNorthwest","2030",NA,NA
+"692","FedRollback","biomass","Billions 1975$","PacificNorthwest","2035",NA,NA
+"693","FedRollback","biomass","Billions 1975$","RockiesCentral","2020",NA,NA
+"694","FedRollback","biomass","Billions 1975$","RockiesCentral","2025",NA,NA
+"695","FedRollback","biomass","Billions 1975$","RockiesCentral","2030",NA,NA
+"696","FedRollback","biomass","Billions 1975$","RockiesCentral","2035",NA,NA
+"697","FedRollback","biomass","Billions 1975$","SouthAtlantic","2020",NA,NA
+"698","FedRollback","biomass","Billions 1975$","SouthAtlantic","2025",NA,NA
+"699","FedRollback","biomass","Billions 1975$","SouthAtlantic","2030",NA,NA
+"700","FedRollback","biomass","Billions 1975$","SouthAtlantic","2035",NA,NA
+"701","FedRollback","biomass","Billions 1975$","West","2020",NA,NA
+"702","FedRollback","biomass","Billions 1975$","West","2025",NA,NA
+"703","FedRollback","biomass","Billions 1975$","West","2030",NA,NA
+"704","FedRollback","biomass","Billions 1975$","West","2035",NA,NA
+"705","FedRollback","coal","Billions 1975$","AK-HI","2020",NA,NA
+"706","FedRollback","coal","Billions 1975$","AK-HI","2025",NA,NA
+"707","FedRollback","coal","Billions 1975$","AK-HI","2030",NA,NA
+"708","FedRollback","coal","Billions 1975$","AK-HI","2035",NA,NA
+"709","FedRollback","coal","Billions 1975$","Appalachia","2020",NA,NA
+"710","FedRollback","coal","Billions 1975$","Appalachia","2025",NA,NA
+"711","FedRollback","coal","Billions 1975$","Appalachia","2030",NA,NA
+"712","FedRollback","coal","Billions 1975$","Appalachia","2035",NA,NA
+"713","FedRollback","coal","Billions 1975$","GulfCoast","2020",NA,NA
+"714","FedRollback","coal","Billions 1975$","GulfCoast","2025",NA,NA
+"715","FedRollback","coal","Billions 1975$","GulfCoast","2030",NA,NA
+"716","FedRollback","coal","Billions 1975$","GulfCoast","2035",NA,NA
+"717","FedRollback","coal","Billions 1975$","MidA","2020",NA,NA
+"718","FedRollback","coal","Billions 1975$","MidA","2025",NA,NA
+"719","FedRollback","coal","Billions 1975$","MidA","2030",NA,NA
+"720","FedRollback","coal","Billions 1975$","MidA","2035",NA,NA
+"721","FedRollback","coal","Billions 1975$","Midcontinent","2020",NA,NA
+"722","FedRollback","coal","Billions 1975$","Midcontinent","2025",NA,NA
+"723","FedRollback","coal","Billions 1975$","Midcontinent","2030",NA,NA
+"724","FedRollback","coal","Billions 1975$","Midcontinent","2035",NA,NA
+"725","FedRollback","coal","Billions 1975$","Midwest","2020",NA,NA
+"726","FedRollback","coal","Billions 1975$","Midwest","2025",NA,NA
+"727","FedRollback","coal","Billions 1975$","Midwest","2030",NA,NA
+"728","FedRollback","coal","Billions 1975$","Midwest","2035",NA,NA
+"729","FedRollback","coal","Billions 1975$","NewEngland","2020",NA,NA
+"730","FedRollback","coal","Billions 1975$","NewEngland","2025",NA,NA
+"731","FedRollback","coal","Billions 1975$","NewEngland","2030",NA,NA
+"732","FedRollback","coal","Billions 1975$","NewEngland","2035",NA,NA
+"733","FedRollback","coal","Billions 1975$","PacificNorthwest","2020",NA,NA
+"734","FedRollback","coal","Billions 1975$","PacificNorthwest","2025",NA,NA
+"735","FedRollback","coal","Billions 1975$","PacificNorthwest","2030",NA,NA
+"736","FedRollback","coal","Billions 1975$","PacificNorthwest","2035",NA,NA
+"737","FedRollback","coal","Billions 1975$","RockiesCentral","2020",NA,NA
+"738","FedRollback","coal","Billions 1975$","RockiesCentral","2025",NA,NA
+"739","FedRollback","coal","Billions 1975$","RockiesCentral","2030",NA,NA
+"740","FedRollback","coal","Billions 1975$","RockiesCentral","2035",NA,NA
+"741","FedRollback","coal","Billions 1975$","SouthAtlantic","2020",NA,NA
+"742","FedRollback","coal","Billions 1975$","SouthAtlantic","2025",NA,NA
+"743","FedRollback","coal","Billions 1975$","SouthAtlantic","2030",NA,NA
+"744","FedRollback","coal","Billions 1975$","SouthAtlantic","2035",NA,NA
+"745","FedRollback","coal","Billions 1975$","West","2020",NA,NA
+"746","FedRollback","coal","Billions 1975$","West","2025",NA,NA
+"747","FedRollback","coal","Billions 1975$","West","2030",NA,NA
+"748","FedRollback","coal","Billions 1975$","West","2035",NA,NA
+"749","FedRollback","electricity","Billions 1975$","AK-HI","2020",0.08105311803536,-7.61684918838545e-05
+"750","FedRollback","electricity","Billions 1975$","AK-HI","2025",0.098892270845693,-0.00171228837292403
+"751","FedRollback","electricity","Billions 1975$","AK-HI","2030",0.119706459369576,0.110494302301281
+"752","FedRollback","electricity","Billions 1975$","AK-HI","2035",0.13503251364746,0.0528139049917702
+"753","FedRollback","electricity","Billions 1975$","Appalachia","2020",1.98179975192758,-6.79294593858293e-05
+"754","FedRollback","electricity","Billions 1975$","Appalachia","2025",2.20518048605497,-0.000464403195411189
+"755","FedRollback","electricity","Billions 1975$","Appalachia","2030",2.70565114453578,0.101058675972445
+"756","FedRollback","electricity","Billions 1975$","Appalachia","2035",3.01492819325756,0.0543411815720349
+"757","FedRollback","electricity","Billions 1975$","GulfCoast","2020",1.1772048541946,-6.70580734835058e-05
+"758","FedRollback","electricity","Billions 1975$","GulfCoast","2025",1.23391445838107,-0.00248928333361109
+"759","FedRollback","electricity","Billions 1975$","GulfCoast","2030",1.5678454003119,0.191146923388708
+"760","FedRollback","electricity","Billions 1975$","GulfCoast","2035",1.63706146159298,0.0903179354156356
+"761","FedRollback","electricity","Billions 1975$","MidA","2020",1.79138305495891,-6.46084343915998e-05
+"762","FedRollback","electricity","Billions 1975$","MidA","2025",1.91232978760059,-0.000235995179804438
+"763","FedRollback","electricity","Billions 1975$","MidA","2030",2.29494036647463,0.117009510565612
+"764","FedRollback","electricity","Billions 1975$","MidA","2035",2.56897057147414,0.0886229629038588
+"765","FedRollback","electricity","Billions 1975$","Midcontinent","2020",1.04225491181926,-5.47977819542744e-05
+"766","FedRollback","electricity","Billions 1975$","Midcontinent","2025",1.14512717144061,-0.00158676428278404
+"767","FedRollback","electricity","Billions 1975$","Midcontinent","2030",1.41209664086595,0.140067363476118
+"768","FedRollback","electricity","Billions 1975$","Midcontinent","2035",1.48920041211369,0.0478813343827105
+"769","FedRollback","electricity","Billions 1975$","Midwest","2020",1.39684776591081,-6.31081506590192e-05
+"770","FedRollback","electricity","Billions 1975$","Midwest","2025",1.75387035195521,-0.000994480887135274
+"771","FedRollback","electricity","Billions 1975$","Midwest","2030",2.20757524336829,0.0639068294596807
+"772","FedRollback","electricity","Billions 1975$","Midwest","2035",2.4310509585127,-0.00718921135354844
+"773","FedRollback","electricity","Billions 1975$","NewEngland","2020",0.73406880059058,-9.91124883110706e-05
+"774","FedRollback","electricity","Billions 1975$","NewEngland","2025",1.01734620989965,-0.000112817420641287
+"775","FedRollback","electricity","Billions 1975$","NewEngland","2030",1.30386888104329,0.0240691179360608
+"776","FedRollback","electricity","Billions 1975$","NewEngland","2035",1.51796077674705,-0.0262638295328288
+"777","FedRollback","electricity","Billions 1975$","PacificNorthwest","2020",0.7600221152417,-6.84515518849516e-05
+"778","FedRollback","electricity","Billions 1975$","PacificNorthwest","2025",0.76644147541709,-0.00146437125209686
+"779","FedRollback","electricity","Billions 1975$","PacificNorthwest","2030",0.99097496613554,0.238496980325228
+"780","FedRollback","electricity","Billions 1975$","PacificNorthwest","2035",1.06268346442622,0.158935683537092
+"781","FedRollback","electricity","Billions 1975$","RockiesCentral","2020",0.36539439938457,-6.09757484322238e-05
+"782","FedRollback","electricity","Billions 1975$","RockiesCentral","2025",0.43392927722312,-0.00138375901512233
+"783","FedRollback","electricity","Billions 1975$","RockiesCentral","2030",0.56859934447904,0.11277945026877
+"784","FedRollback","electricity","Billions 1975$","RockiesCentral","2035",0.637983288201875,0.0530139711558615
+"785","FedRollback","electricity","Billions 1975$","SouthAtlantic","2020",2.07560887853052,-6.54878657733171e-05
+"786","FedRollback","electricity","Billions 1975$","SouthAtlantic","2025",2.16458906706802,-0.000244562759287636
+"787","FedRollback","electricity","Billions 1975$","SouthAtlantic","2030",2.6423692965322,0.195558733751926
+"788","FedRollback","electricity","Billions 1975$","SouthAtlantic","2035",2.75491036469046,0.112356010432877
+"789","FedRollback","electricity","Billions 1975$","West","2020",0.67421225161176,-5.6234414891887e-05
+"790","FedRollback","electricity","Billions 1975$","West","2025",0.79317106855126,-0.00115960883622512
+"791","FedRollback","electricity","Billions 1975$","West","2030",1.02636793086264,0.120376334468257
+"792","FedRollback","electricity","Billions 1975$","West","2035",1.12416386001534,0.04433506837268
+"793","FedRollback","gas","Billions 1975$","AK-HI","2020",NA,NA
+"794","FedRollback","gas","Billions 1975$","AK-HI","2025",NA,NA
+"795","FedRollback","gas","Billions 1975$","AK-HI","2030",NA,NA
+"796","FedRollback","gas","Billions 1975$","AK-HI","2035",NA,NA
+"797","FedRollback","gas","Billions 1975$","Appalachia","2020",NA,NA
+"798","FedRollback","gas","Billions 1975$","Appalachia","2025",NA,NA
+"799","FedRollback","gas","Billions 1975$","Appalachia","2030",NA,NA
+"800","FedRollback","gas","Billions 1975$","Appalachia","2035",NA,NA
+"801","FedRollback","gas","Billions 1975$","GulfCoast","2020",NA,NA
+"802","FedRollback","gas","Billions 1975$","GulfCoast","2025",NA,NA
+"803","FedRollback","gas","Billions 1975$","GulfCoast","2030",NA,NA
+"804","FedRollback","gas","Billions 1975$","GulfCoast","2035",NA,NA
+"805","FedRollback","gas","Billions 1975$","MidA","2020",NA,NA
+"806","FedRollback","gas","Billions 1975$","MidA","2025",NA,NA
+"807","FedRollback","gas","Billions 1975$","MidA","2030",NA,NA
+"808","FedRollback","gas","Billions 1975$","MidA","2035",NA,NA
+"809","FedRollback","gas","Billions 1975$","Midcontinent","2020",NA,NA
+"810","FedRollback","gas","Billions 1975$","Midcontinent","2025",NA,NA
+"811","FedRollback","gas","Billions 1975$","Midcontinent","2030",NA,NA
+"812","FedRollback","gas","Billions 1975$","Midcontinent","2035",NA,NA
+"813","FedRollback","gas","Billions 1975$","Midwest","2020",NA,NA
+"814","FedRollback","gas","Billions 1975$","Midwest","2025",NA,NA
+"815","FedRollback","gas","Billions 1975$","Midwest","2030",NA,NA
+"816","FedRollback","gas","Billions 1975$","Midwest","2035",NA,NA
+"817","FedRollback","gas","Billions 1975$","NewEngland","2020",NA,NA
+"818","FedRollback","gas","Billions 1975$","NewEngland","2025",NA,NA
+"819","FedRollback","gas","Billions 1975$","NewEngland","2030",NA,NA
+"820","FedRollback","gas","Billions 1975$","NewEngland","2035",NA,NA
+"821","FedRollback","gas","Billions 1975$","PacificNorthwest","2020",NA,NA
+"822","FedRollback","gas","Billions 1975$","PacificNorthwest","2025",NA,NA
+"823","FedRollback","gas","Billions 1975$","PacificNorthwest","2030",NA,NA
+"824","FedRollback","gas","Billions 1975$","PacificNorthwest","2035",NA,NA
+"825","FedRollback","gas","Billions 1975$","RockiesCentral","2020",NA,NA
+"826","FedRollback","gas","Billions 1975$","RockiesCentral","2025",NA,NA
+"827","FedRollback","gas","Billions 1975$","RockiesCentral","2030",NA,NA
+"828","FedRollback","gas","Billions 1975$","RockiesCentral","2035",NA,NA
+"829","FedRollback","gas","Billions 1975$","SouthAtlantic","2020",NA,NA
+"830","FedRollback","gas","Billions 1975$","SouthAtlantic","2025",NA,NA
+"831","FedRollback","gas","Billions 1975$","SouthAtlantic","2030",NA,NA
+"832","FedRollback","gas","Billions 1975$","SouthAtlantic","2035",NA,NA
+"833","FedRollback","gas","Billions 1975$","West","2020",NA,NA
+"834","FedRollback","gas","Billions 1975$","West","2025",NA,NA
+"835","FedRollback","gas","Billions 1975$","West","2030",NA,NA
+"836","FedRollback","gas","Billions 1975$","West","2035",NA,NA
+"837","FedRollback","refined liquids","Billions 1975$","AK-HI","2020",NA,NA
+"838","FedRollback","refined liquids","Billions 1975$","AK-HI","2025",NA,NA
+"839","FedRollback","refined liquids","Billions 1975$","AK-HI","2030",NA,NA
+"840","FedRollback","refined liquids","Billions 1975$","AK-HI","2035",NA,NA
+"841","FedRollback","refined liquids","Billions 1975$","Appalachia","2020",NA,NA
+"842","FedRollback","refined liquids","Billions 1975$","Appalachia","2025",NA,NA
+"843","FedRollback","refined liquids","Billions 1975$","Appalachia","2030",NA,NA
+"844","FedRollback","refined liquids","Billions 1975$","Appalachia","2035",NA,NA
+"845","FedRollback","refined liquids","Billions 1975$","GulfCoast","2020",NA,NA
+"846","FedRollback","refined liquids","Billions 1975$","GulfCoast","2025",NA,NA
+"847","FedRollback","refined liquids","Billions 1975$","GulfCoast","2030",NA,NA
+"848","FedRollback","refined liquids","Billions 1975$","GulfCoast","2035",NA,NA
+"849","FedRollback","refined liquids","Billions 1975$","MidA","2020",NA,NA
+"850","FedRollback","refined liquids","Billions 1975$","MidA","2025",NA,NA
+"851","FedRollback","refined liquids","Billions 1975$","MidA","2030",NA,NA
+"852","FedRollback","refined liquids","Billions 1975$","MidA","2035",NA,NA
+"853","FedRollback","refined liquids","Billions 1975$","Midcontinent","2020",NA,NA
+"854","FedRollback","refined liquids","Billions 1975$","Midcontinent","2025",NA,NA
+"855","FedRollback","refined liquids","Billions 1975$","Midcontinent","2030",NA,NA
+"856","FedRollback","refined liquids","Billions 1975$","Midcontinent","2035",NA,NA
+"857","FedRollback","refined liquids","Billions 1975$","Midwest","2020",NA,NA
+"858","FedRollback","refined liquids","Billions 1975$","Midwest","2025",NA,NA
+"859","FedRollback","refined liquids","Billions 1975$","Midwest","2030",NA,NA
+"860","FedRollback","refined liquids","Billions 1975$","Midwest","2035",NA,NA
+"861","FedRollback","refined liquids","Billions 1975$","NewEngland","2020",NA,NA
+"862","FedRollback","refined liquids","Billions 1975$","NewEngland","2025",NA,NA
+"863","FedRollback","refined liquids","Billions 1975$","NewEngland","2030",NA,NA
+"864","FedRollback","refined liquids","Billions 1975$","NewEngland","2035",NA,NA
+"865","FedRollback","refined liquids","Billions 1975$","PacificNorthwest","2020",NA,NA
+"866","FedRollback","refined liquids","Billions 1975$","PacificNorthwest","2025",NA,NA
+"867","FedRollback","refined liquids","Billions 1975$","PacificNorthwest","2030",NA,NA
+"868","FedRollback","refined liquids","Billions 1975$","PacificNorthwest","2035",NA,NA
+"869","FedRollback","refined liquids","Billions 1975$","RockiesCentral","2020",NA,NA
+"870","FedRollback","refined liquids","Billions 1975$","RockiesCentral","2025",NA,NA
+"871","FedRollback","refined liquids","Billions 1975$","RockiesCentral","2030",NA,NA
+"872","FedRollback","refined liquids","Billions 1975$","RockiesCentral","2035",NA,NA
+"873","FedRollback","refined liquids","Billions 1975$","SouthAtlantic","2020",NA,NA
+"874","FedRollback","refined liquids","Billions 1975$","SouthAtlantic","2025",NA,NA
+"875","FedRollback","refined liquids","Billions 1975$","SouthAtlantic","2030",NA,NA
+"876","FedRollback","refined liquids","Billions 1975$","SouthAtlantic","2035",NA,NA
+"877","FedRollback","refined liquids","Billions 1975$","West","2020",NA,NA
+"878","FedRollback","refined liquids","Billions 1975$","West","2025",NA,NA
+"879","FedRollback","refined liquids","Billions 1975$","West","2030",NA,NA
+"880","FedRollback","refined liquids","Billions 1975$","West","2035",NA,NA
